@@ -2,11 +2,13 @@
 去重后追加到 data/raw/YYYY-MM-DD.jsonl。输出字段与黑盒桩一致，下游 summarize.py 无需改动。
 
 数据源（sources，除 tavily 外均无需 key 即可用）：
-  - google_news : Google News RSS 搜索（实时新闻，中文友好）
+  - google_news : Google News RSS 搜索（实时新闻，中文友好；链接为中转页，无正文，AI 仅读标题）
   - arxiv       : arXiv 论文 API（前沿研究 / 学习类）
   - hn          : Hacker News（Algolia API，返回真实文章直链，比 RSS 稳定）
   - duckduckgo  : DuckDuckGo HTML 搜索（通用网页，作为兜底）
   - tavily      : Tavily Search API（需环境变量 TAVILY_API_KEY，质量最高，可选）
+  - rss         : 直链 RSS 源（如 量子位/36氪/机器之心），返回真实文章 URL + 导语正文，
+                 需在 topic 下配 "feeds":[{"url":..., "name":...}]，AI 可读取真实正文做摘要
 
 依赖：仅 Python 标准库（urllib / xml / gzip / html / re），CI 无需 pip install。
 """
@@ -95,6 +97,14 @@ def _iter_items(text, tag):
 
 def _clean_summary(s, limit=220):
     return re.sub(r"\s+", " ", html.unescape(s or "")).strip()[:limit]
+
+
+def _strip_html(s):
+    """去掉 HTML 标签，保留纯文本（用于 RSS description）。"""
+    if not s:
+        return ""
+    s = re.sub(r"<[^>]+>", " ", s)
+    return re.sub(r"\s+", " ", html.unescape(s)).strip()
 
 
 def _domain(url):
@@ -261,6 +271,43 @@ def fetch_tavily(query, max_items=PER_SOURCE_MAX, api_key=""):
     return out
 
 
+def fetch_rss_feed(feed_url, max_items=PER_SOURCE_MAX, feed_name="", api_key=""):
+    """抓取直链 RSS 源（如 量子位 / 36氪 / 机器之心），返回真实文章 URL + 导语正文。
+    用正则容错解析（部分中文 feed 的 XML 不规范），失败时返回空列表。
+    """
+    text = fetch(feed_url)
+    if not text:
+        return []
+    blocks = re.findall(r"<item\b[^>]*>(.*?)</item>", text, flags=re.S | re.I)
+    out = []
+    for b in blocks:
+        if len(out) >= max_items:
+            break
+
+        def grab(tag):
+            m = re.search(rf"<{tag}\b[^>]*>(.*?)</{tag}>", b, flags=re.S | re.I)
+            if not m:
+                return ""
+            s = m.group(1).strip()
+            # 去除 CDATA 包裹
+            cm = re.search(r"<!\[CDATA\[(.*?)\]\]>", s, flags=re.S)
+            if cm:
+                s = cm.group(1).strip()
+            return s
+
+        title = _strip_html(grab("title"))
+        link = grab("link")
+        if not link:
+            lm = re.search(r'<link[^>]*href="([^"]+)"', b, re.I)
+            link = lm.group(1) if lm else ""
+        desc = _strip_html(grab("description"))
+        src = feed_name or grab("source") or _domain(feed_url)
+        if not title or not link:
+            continue
+        out.append({"title": title, "url": link, "source": src, "summary": desc[:300]})
+    return out
+
+
 SOURCE_FUNCS = {
     "google_news": fetch_google_news,
     "arxiv": fetch_arxiv,
@@ -281,38 +328,58 @@ def search_topic(topic, api_key=""):
     sources = topic.get("sources") or DEFAULT_SOURCES
     seen_urls, collected = set(), []
     cap = PER_TOPIC_RUN_CAP
+
+    def accept(it):
+        t, u = it.get("title", ""), it.get("url", "")
+        if not t:
+            return None
+        # 同一次运行内按 url/title 去重，避免多源重复
+        if u in seen_urls or any(t == c["title"] for c in collected):
+            return None
+        if u:
+            seen_urls.add(u)
+        rec = {
+            "title": t,
+            "url": u,
+            "source": it.get("source", ""),
+            "summary": it.get("summary", ""),
+        }
+        collected.append(rec)
+        return rec
+
     for src in sources:
+        if len(collected) >= cap:
+            break
+        if src == "rss":
+            # RSS 直链源：按 topic 的 feeds 列表抓取（每个 feed 给真实 URL + 导语）
+            for feed in (topic.get("feeds") or []):
+                if len(collected) >= cap:
+                    break
+                furl = feed.get("url") if isinstance(feed, dict) else feed
+                fname = feed.get("name") if isinstance(feed, dict) else ""
+                try:
+                    items = fetch_rss_feed(furl, PER_SOURCE_MAX, fname, api_key)
+                except Exception as e:
+                    print(f"[collect] rss {furl} 出错: {e}")
+                    items = []
+                for it in items:
+                    accept(it)
+            time.sleep(SOURCE_PAUSE)
+            continue
         fn = SOURCE_FUNCS.get(src)
         if not fn:
             print(f"[collect] 未知数据源 {src}，跳过")
             continue
         for q in queries:
+            if len(collected) >= cap:
+                break
             try:
                 items = fn(q, PER_SOURCE_MAX, api_key)
             except Exception as e:
                 print(f"[collect] {src} 搜索 '{q}' 出错: {e}")
                 items = []
             for it in items:
-                t, u = it.get("title", ""), it.get("url", "")
-                if not t:
-                    continue
-                # 同一次运行内按 url/title 去重，避免多源重复
-                if u in seen_urls or any(t == c["title"] for c in collected):
-                    continue
-                if u:
-                    seen_urls.add(u)
-                collected.append({
-                    "title": t,
-                    "url": u,
-                    "source": it.get("source", src),
-                    "summary": it.get("summary", ""),
-                })
-                if len(collected) >= cap:
-                    break
-            if len(collected) >= cap:
-                break
-        if len(collected) >= cap:
-            break
+                accept(it)
         time.sleep(SOURCE_PAUSE)
     return collected
 

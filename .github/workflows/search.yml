@@ -17,17 +17,23 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - name: 采集并去重后提交
+      - name: 安装依赖（正文抽取 trafilatura）
+        run: pip install -r requirements.txt
+      - name: 采集 + 富化（抓正文/AI摘要/广告过滤）后提交
         env:
           TZ: Asia/Shanghai
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
           PYTHONIOENCODING: utf-8
         run: |
           DATE_BJ=$(date +%Y-%m-%d)
           echo "采集日期(北京): $DATE_BJ"
           python scripts/collect.py --date "$DATE_BJ"
+          python scripts/enrich.py --date "$DATE_BJ"
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/raw data/dedup
-          git diff --cached --quiet || git commit -m "chore(search): collect $DATE_BJ"
+          git add data/raw data/dedup data/enriched
+          git diff --cached --quiet || git commit -m "chore(search): collect+enrich $DATE_BJ"
           git push

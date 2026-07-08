@@ -1,24 +1,34 @@
 {
   "version": 2,
-  "note": "真实搜索配置：每个搜集类型可指定 queries（搜索词）与 sources（数据源）。sources 可选：google_news / arxiv / hn / duckduckgo / tavily。改类型只改这里，不用动代码。注意：google_news 链接为 Google News 中转页（点击后跳转到原文），hn/arxiv 为原文直链；想要全部直链且质量更高可给 hn/ai-news 加 tavily（需 TAVILY_API_KEY 环境变量）。",
+  "note": "真实搜索配置：每个搜集类型可指定 queries（搜索词）与 sources（数据源）。sources 可选：google_news / arxiv / hn / duckduckgo / tavily / rss。改类型只改这里，不用动代码。注意：google_news 链接为中转页且RSS无正文，AI 仅能读标题；rss 直链源（量子位/36氪）提供真实文章URL+导语，enrich 会抓全文交给 AI 摘要。想要 google_news 也变直链+全文，可给 ai-news 加 tavily（需 TAVILY_API_KEY 环境变量）。",
   "topics": [
     {
       "key": "ai-news",
       "name": "AI 新发现",
       "queries": ["人工智能 新模型 发布", "大模型 产品 发布", "AI 研究 突破"],
-      "sources": ["google_news", "hn"]
+      "sources": ["google_news", "hn", "rss"],
+      "feeds": [
+        {"url": "https://www.qbitai.com/feed", "name": "量子位"},
+        {"url": "https://36kr.com/feed", "name": "36氪"}
+      ]
     },
     {
       "key": "ai-learn",
       "name": "AI 知识学习",
       "queries": ["RAG 教程", "LoRA 微调 入门", "Agent 提示词工程", "向量数据库 原理"],
-      "sources": ["arxiv", "hn", "google_news"]
+      "sources": ["arxiv", "hn", "rss"],
+      "feeds": [
+        {"url": "https://www.qbitai.com/feed", "name": "量子位"}
+      ]
     },
     {
       "key": "ai-exp",
       "name": "AI 使用经验",
       "queries": ["AI 使用技巧 最佳实践", "大模型 踩坑 经验", "提示词 工作流 技巧"],
-      "sources": ["google_news", "hn", "duckduckgo"]
+      "sources": ["google_news", "hn", "duckduckgo", "rss"],
+      "feeds": [
+        {"url": "https://36kr.com/feed", "name": "36氪"}
+      ]
     }
   ]
 }
