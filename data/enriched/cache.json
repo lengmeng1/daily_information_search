@@ -793,5 +793,20 @@
     "real_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CRGdIWkQ5TEFNWWplZXRTY2x2dlpzTk41MXZ4MUl3bEhzamY1VGdWYWJ4VmVPVVE2MWtkUnBpdVFNV0ZGZDU5bExmOThhRDFBRDM4TkpLR1Vpdw?oc=5",
     "ai_summary": "文章介绍了2023年C7官网平台入口的重大更新及玩家热评，但内容疑似推广赌博平台。",
     "is_promo": true
+  },
+  "AI游戏开发智能体推荐：极逸SOON AI和TapTap Maker哪家更强？": {
+    "real_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mQlNOZGR6Vmp3YjlNcHVjNnVKeWJGUFhoWE5OQkFDcTU3UkJHSVFaUmhYMEM2T0Q1QlhGcDZ6dk9lcnNaZlhkNnJnLTlMX0ctanlQbEg3UUtwY2tnT2c?oc=5",
+    "ai_summary": "文章对比了极逸SOON AI和TapTap Maker两款AI游戏开发工具，分析其功能与适用场景，帮助开发者选择。",
+    "is_promo": false
+  },
+  "Vision Pro开发教程：将Unity VR应用带入完全沉浸式空间": {
+    "real_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Yc2xsbzZmcE5paEx4WWk3eXRaR1UyVnBaYk9EMUNEZmg3Y20tMjlJQUtxY2xLRTdFQ0pjNGZSY24yQ090Mzg3YWJySQ?oc=5",
+    "ai_summary": "本文介绍了如何将Unity VR应用移植到Apple Vision Pro，实现完全沉浸式空间体验的开发教程。",
+    "is_promo": false
+  },
+  "Sequence 和 Xai Foundation 推出 Xai Builder": {
+    "real_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZExhSmFvMFNfZ1FiOFEyTTQ4eTBIckF4d2Nid3VTOHlkaFBEUmFydUZfbG5rc0cwdWhkbDk0RGRTZkphVkw3eGVBcUhaQUtVeHdFRU5DMi1FVXVyNlhuM0VFdkZtQ1lEelg3eHE3N0ZnMGFZTWFHMDM0ajNxejhXYVVYa2lxV3hZZVdaNllWLUlYUURkVm9Deg?oc=5",
+    "ai_summary": "Sequence与Xai Foundation合作推出Xai Builder，旨在为开发者提供构建Xai游戏生态的工具。",
+    "is_promo": false
   }
 }
