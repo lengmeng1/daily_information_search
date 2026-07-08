@@ -203,5 +203,120 @@
     "real_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nc1ZrOVFWQkEyQWxrbmJwdHFTaC1iWU1lUFNnOUpuMXhQTG16QU1fN3VyVGRHRnpJNW1vZk1lYVhkRWE0TlZia0duWXlGYm9WOExUMDNIampvbzBTTTl6VDVXV29iY0tleU9JTUJR?oc=5",
     "ai_summary": "本文提供GPT Image 2提示词使用指南，帮助用户生成高质量AI图像。",
     "is_promo": false
+  },
+  "腾讯，发布AI新模型": {
+    "real_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1MHBUWW1Ua3lrZEREN2JWN05KN1dHSDAtZjFWSEZoZ2Vwemx3QmJsV0ZzNzd1bHJCejQ4SlVGZ3Q1WnRVSG5rVkVTSVctNTNxZ2w0?oc=5",
+    "ai_summary": "腾讯，发布AI新模型",
+    "is_promo": false
+  },
+  "湖北发布首个交通行业AI大模型“荆楚・行”": {
+    "real_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42aXBBMWJ4X3ZSdmt5VUtGQkxsZDZFRllZWE1LaTZuSHhRcWZWczEtVGZ1VjI2NmNZSVloa3FpcUY3OTRBdGZaWDcyOXo0LTF1dENVUC05WGh6SVFHTXRQcmtOOTJmcUg2cDhaRVM3Vlk?oc=5",
+    "ai_summary": "湖北发布首个交通行业AI大模型“荆楚・行”",
+    "is_promo": false
+  },
+  "DynaKRAG: A Unified Framework for Learnable Evidence Control in Multi-Hop Retrieval-Augmented Generation": {
+    "real_url": "http://arxiv.org/abs/2607.06507v1",
+    "ai_summary": "Multi-hop retrieval-augmented generation (RAG) acquires evidence sequentially, with each new document potentially revealing missing facts, bridge entities, query defects, or sufficient support for answering. Existing methods provide useful operations such as i",
+    "is_promo": false
+  },
+  "Mitigating Errors in LLM-Generated Web API Invocations via Retrieval-Augmented Generation and Constrained Decoding": {
+    "real_url": "http://arxiv.org/abs/2607.05936v1",
+    "ai_summary": "Integration of web APIs is a cornerstone of modern software systems, yet writing correct web API invocation code remains challenging due to complex and evolving API specifications. Although LLMs are increasingly used for code generation, previous work has empi",
+    "is_promo": false
+  },
+  "Code-Level Cost Function Generation for Spatial Image Steganography Using RAG-Enhanced Large Language Models": {
+    "real_url": "http://arxiv.org/abs/2607.05868v1",
+    "ai_summary": "Designing cost functions of adaptive steganography traditionally requires extensive manual tuning, while deep learning methods lack interpretability. Although large language models (LLMs) offer an automated alternative via evolutionary generation, they often v",
+    "is_promo": false
+  },
+  "PatchOptic for Shared-State LLM Workflows with Projected Views and Verified Structured Updates": {
+    "real_url": "http://arxiv.org/abs/2607.05483v1",
+    "ai_summary": "Agentic workflows often operate over shared, structured state. Because LLM context windows are limited, each model invocation is typically shown only the state fragment needed for the current workflow step, a pattern commonly known as progressive disclosure. M",
+    "is_promo": false
+  },
+  "Curated retrieval versus open web search in public AI information services: a coverage-trust trade-off": {
+    "real_url": "http://arxiv.org/abs/2607.05217v2",
+    "ai_summary": "Public institutions increasingly use large language models (LLMs) to answer citizens' questions, often pairing a curated knowledge base with live web search, yet whether the sources behind these answers can be trusted has received little empirical scrutiny. We",
+    "is_promo": false
+  },
+  "Privilege and confidentiality in generative AI workflows": {
+    "real_url": "http://arxiv.org/abs/2607.05479v1",
+    "ai_summary": "Generative AI (GenAI) systems store and process client data in three distinct ways: in the model's parameters through training and memorisation, in the context window during a live session, and in knowledge databases for retrieval-augmented generation (RAG). E",
+    "is_promo": false
+  },
+  "From RGB Generation to Dense Field Readout: Pixel-Space Dense Prediction with Text-to-Image Models": {
+    "real_url": "http://arxiv.org/abs/2607.06553v1",
+    "ai_summary": "Large-scale text-to-image models are attractive backbones for dense prediction because RGB generation pretraining learns rich semantic, structural, and geometric priors. Existing generative and editing approaches reuse these priors by casting dense prediction ",
+    "is_promo": false
+  },
+  "FADRA: Frequency-Aware Diffusion with Residual Adaptation for Video Face Restoration": {
+    "real_url": "http://arxiv.org/abs/2607.06389v1",
+    "ai_summary": "Video face restoration (VFR) aims to recover high-quality and temporally consistent facial details from severely degraded video sequences; however, existing methods still struggle to balance spatial fidelity and temporal coherence under complex degradations. T",
+    "is_promo": false
+  },
+  "Exploring Image-Text Alignment for Radio Galaxy Morphologies": {
+    "real_url": "http://arxiv.org/abs/2607.06305v1",
+    "ai_summary": "We investigate whether specially constructed text captions can capture the same morphological information as radio galaxy images. Using the MiraBest dataset, we generate captions with a domain-specific prompt and evaluate their alignment with images through th",
+    "is_promo": false
+  },
+  "Pluralis v0.1: Towards a Multicultural, Multimodal, Multilingual Benchmark for AI Risk and Reliability": {
+    "real_url": "http://arxiv.org/abs/2607.06196v1",
+    "ai_summary": "Current AI safety evaluation and benchmarking frameworks predominantly rely on Western-centric culture-agnostic defaults that mask critical regional laws, socio-linguistic nuances, and cultural taboos, leaving Vision-Language Models (VLMs) vulnerable in global",
+    "is_promo": false
+  },
+  "FourTune: Towards Fully 4-Bit Efficient Post-Training for Diffusion Models": {
+    "real_url": "http://arxiv.org/abs/2607.05711v1",
+    "ai_summary": "Diffusion models have become a dominant paradigm for high-quality generative modeling, while post-training is essential for adapting them to diverse downstream applications. However, post-training of large diffusion models is still challenging due to the prohi",
+    "is_promo": false
+  },
+  "Cross-Contextual Vision-Language Adaptation with LoRA for Personalized Severe Adverse Event Detection in Clinical Wound Monitoring": {
+    "real_url": "http://arxiv.org/abs/2607.05625v1",
+    "ai_summary": "Wound monitoring is a critical yet underserved clinical challenge, where timely identification of severe adverse events (SAEs) such as infection, tissue deterioration, and delayed healing can significantly impact patient outcomes. While vision-language models ",
+    "is_promo": false
+  },
+  "Embodied Human-Robot Interaction via Acoustics: A MARL Approach with AcoustoBots for Spatial Data Physicalization": {
+    "real_url": "http://arxiv.org/abs/2607.06563v1",
+    "ai_summary": "Traditional data physicalization is often static and disconnected from real environments, limiting its ability to convey embodied spatial dynamics and engage users. To address this limitation, we present AcoustoBots, a mobile acoustophoretic data-physicalizati",
+    "is_promo": false
+  },
+  "RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation": {
+    "real_url": "http://arxiv.org/abs/2607.06558v1",
+    "ai_summary": "Scaling robot learning requires massive, diverse trajectory data, yet collection is currently bottlenecked by physical teleoperation, where every demonstration binds operator time to specific hardware and workspaces. We introduce digital teleoperation, a parad",
+    "is_promo": false
+  },
+  "Bridging Physical Reasoning and Task Generalization via Visual Action Outcome Reasoning Alignment": {
+    "real_url": "http://arxiv.org/abs/2607.06522v1",
+    "ai_summary": "Vision-language models (VLMs) struggle to generalize in interactive physical reasoning, particularly under unseen tasks and environments. Two key failure modes are prominent: hallucinated chain-of-thought (CoT) reasoning that contradicts physical reality, and ",
+    "is_promo": false
+  },
+  "Doomed from the Start: Early Abort of LLM Agent Episodes via a Recall-Controlled Probe Cascade": {
+    "real_url": "http://arxiv.org/abs/2607.06503v1",
+    "ai_summary": "Large language model (LLM) agents solving multi-step tasks frequently commit to trajectories that are doomed to fail, yet continue to consume substantial inference compute before the failure becomes observable. We show that failure is predictable early from th",
+    "is_promo": false
+  },
+  "Multi-Agent Deep Reinforcement Learning for Multi Objective Battery Management in Dairy Farms": {
+    "real_url": "http://arxiv.org/abs/2607.06489v1",
+    "ai_summary": "The dairy industry in Ireland has a large potential for the integration of renewable energy and the reduction of carbon emissions. However, researchers of distributed generation control are mainly focused on residential and commercial applications. To contribu",
+    "is_promo": false
+  },
+  "Data Analysis in the Wild: Benchmarking Large Language Models Against Real-World Data Complexities": {
+    "real_url": "http://arxiv.org/abs/2607.06482v1",
+    "ai_summary": "Current benchmarks for evaluating Large Language Models (LLMs) in data analysis often fail to reflect real-world settings. They typically focus on fact retrieval from small tables and overlook the challenges of large multi-tabular datasets, external knowledge ",
+    "is_promo": false
+  },
+  "从IDC到云上GPU：基于 Amazon EKS 的大模型推理混合云弹性部署实践": {
+    "real_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa242eURnaHhMTUxLUVFaQkhYUzdGRHB4RjRtV2s5UTJ1RkczTFJUTXlzaGxJWWRKVl9RWHVCQnNYMjF3SEw1VmYxQjM2TVJQMThHY2RCS1VFdERxUlZZeWFMdExZZk9tQWxESWtCTzVEQlg1bTBGU1B2SkJqd3JJTkJ3Y3QweXFGaFRKWG9qb3ZyQmFkaWJ5VTZmSUxZbmk4c2JyWG51UlEtODFYRnd2UV9EUW1zY01VenVJY1lra0NSZ2s?oc=5",
+    "ai_summary": "从IDC到云上GPU：基于 Amazon EKS 的大模型推理混合云弹性部署实践",
+    "is_promo": false
+  },
+  "让大模型“吃一堑长一智”，南理工百度等提出模型记忆新方法": {
+    "real_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jQmRJOHMyakZEdnFUVU9xbkIzbXJaOHBTSHBGWjVGNTVPc0hQNml1Ni1vLXFBMmlVa1ZWV1ZHelZxYlMzZEdQSQ?oc=5",
+    "ai_summary": "让大模型“吃一堑长一智”，南理工百度等提出模型记忆新方法",
+    "is_promo": false
+  },
+  "Hermes Agent 自进化架构的源码级拆解": {
+    "real_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Gb045bHh6R1VySkkyT1UxalNJRG1qNnpvY3dJdDBSaFVCMGtnb0dpUXF5U3loVUxObHFRQktfd2w0WFFEMThpalJncW1EZw?oc=5",
+    "ai_summary": "Hermes Agent 自进化架构的源码级拆解",
+    "is_promo": false
   }
 }
