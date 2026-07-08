@@ -51,7 +51,6 @@ jobs:
         uses: actions/deploy-pages@v4
 
       - name: 企微通知
-        if: ${{ secrets.WECHAT_WEBHOOK != '' }}
         run: python scripts/notify.py --webhook "${{ secrets.WECHAT_WEBHOOK }}" --text "每日总结已更新：https://lengmeng1.github.io/daily_information_search/"
 
       - name: 恢复开放
