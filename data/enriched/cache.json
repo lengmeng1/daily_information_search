@@ -698,5 +698,90 @@
     "real_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZaDhzRHdGeHhGTkpqU3hIRl9neWxHc0JORU1WZEFuOTFvZW5YOE9UcGctTzU5cHE3WTk3WjhwRlBDOGp6S2hVWXlyRzhERktMclBOVXhqVTBzVC1qMlE?oc=5",
     "ai_summary": "本文介绍了网易在游戏研发中应用多Agent系统和知识工程实现AI转型的实践，展示了如何通过AI技术提升游戏开发效率与创新。",
     "is_promo": false
+  },
+  "【Ai 辅助游戏开发实践】：掌握这7个关键技术，轻松打造下一代智能游戏-csdn博客": {
+    "real_url": "https://blog.csdn.net/BytePerch/article/details/152269022",
+    "ai_summary": "本文介绍了AI在游戏开发中的7个关键技术，涵盖智能NPC行为、自动化内容生成等，旨在帮助开发者提升效率并打造下一代智能游戏。",
+    "is_promo": false
+  },
+  "在 WorkBuddy 上开发游戏：我的实战经验分享-腾讯云开发者社区-腾讯云": {
+    "real_url": "https://cloud.tencent.com/developer/article/2657295",
+    "ai_summary": "本文分享了在WorkBuddy平台上利用AI辅助开发赛博朋克FPS游戏《NEONSTRIKE》的实战经验，涵盖场景搭建、玩家控制、AI敌人及武器系统等核心模块的提示词策略与性能优化方案，适合游戏开发者学习AI辅助开发流程。",
+    "is_promo": false
+  },
+  "关于我这三个多月利用ai开发游戏的完整总结 - 知乎": {
+    "real_url": "https://zhuanlan.zhihu.com/p/1920883154350223741",
+    "ai_summary": "作者分享了过去三个多月利用AI编程开发第一款游戏的完整经历，总结了过程中的挑战与收获。",
+    "is_promo": false
+  },
+  "2026年独立游戏开发AI工具全指南：从策划到上线的完整工具链": {
+    "real_url": "https://zhuanlan.zhihu.com/p/2052890069946700431",
+    "ai_summary": "本文介绍了2026年独立游戏开发中从策划到上线所需的AI工具链，涵盖代码编辑器、游戏引擎及NPC生成等关键环节。",
+    "is_promo": false
+  },
+  "Ai辅助游戏开发全流程指南：从概念设计到代码生成的实战方案 | 布忑狗": {
+    "real_url": "https://aibotgo.net/blog/ai-game-development-guide-2026/",
+    "ai_summary": "本文介绍了从概念设计到代码生成的AI辅助游戏开发全流程方案，涵盖角色设计、关卡生成、代码编写和自动化测试等环节。",
+    "is_promo": false
+  },
+  "AI游戏开发全流程：2026年个人开发者用AI做游戏的完整教程": {
+    "real_url": "https://www.flowpixai.com/tutorials/ai-game-development-guide.html",
+    "ai_summary": "本文介绍2026年个人开发者利用AI工具完成3D游戏开发的全流程教程，涵盖从创意到上线的各个环节。",
+    "is_promo": false
+  },
+  "Cursor 开发游戏：AI 驱动下的开发 - CSDN博客": {
+    "real_url": "https://blog.csdn.net/ntx745120/article/details/149260955",
+    "ai_summary": "本文介绍Cursor编辑器如何通过AI赋能游戏开发，提升效率，涵盖自然语言驱动原型、代码优化、跨语言适配及四阶段开发流程。",
+    "is_promo": false
+  },
+  "2026 年每个开发者都该知道的 10 个 Cursor 技巧 | SimilarLabs": {
+    "real_url": "https://similarlabs.com/zh/blog/cursor-tips-and-tricks",
+    "ai_summary": "本文介绍了10个Cursor AI实用技巧，包括快捷键、.cursorrules配置和Composer工作流，帮助开发者提升编码效率。",
+    "is_promo": false
+  },
+  "耗时1天，使用cursor制作一个3D射击小游戏，全程无需手写一行代码": {
+    "real_url": "https://zhuanlan.zhihu.com/p/18495679942",
+    "ai_summary": "文章介绍使用Cursor等AI工具，无需手写代码即可在1天内制作3D射击小游戏，展示AI辅助编程的便捷性。",
+    "is_promo": false
+  },
+  "0编程基础入门cursor万字复盘：17个cursor使用技巧+6个常见项目卡点 - 知乎": {
+    "real_url": "https://zhuanlan.zhihu.com/p/14690060398",
+    "ai_summary": "本文复盘了Cursor编程工具的学习经验，分享了17个使用技巧和6个常见项目卡点，旨在帮助零基础用户快速上手。",
+    "is_promo": false
+  },
+  "一行代码都没写!cursor给我开发了一款小游戏（附cursor使用教程）小白0代码基础也能学会ai编程写代码!": {
+    "real_url": "https://www.cnblogs.com/mfryf/p/18780352",
+    "ai_summary": "文章介绍使用Cursor AI工具无需编写代码即可开发小游戏，并附教程，强调零基础也能快速学会AI编程。",
+    "is_promo": true
+  },
+  "Cursor 零基础实战教程，夯爆了!带你速通 6 大核心能力 - 编程导航 | 一线开发者编程经验和技术实战分享": {
+    "real_url": "https://www.codefather.cn/post/2062729147041501185",
+    "ai_summary": "本文提供Cursor零基础实战教程，涵盖安装配置、模型选择及六大核心能力，帮助读者快速掌握AI编程技能。",
+    "is_promo": false
+  },
+  "50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代": {
+    "real_url": "https://www.qbitai.com/2026/07/446411.html",
+    "ai_summary": "魔芯MoWorld通过技术优化，将世界模型应用成本降低70%，实现50FPS性能，推动产业落地，获华为、联想投资。",
+    "is_promo": false
+  },
+  "具身智能“高考”难疯了！人类100分，最强模型12.8": {
+    "real_url": "https://www.qbitai.com/2026/07/446363.html",
+    "ai_summary": "文章介绍了具身智能领域的高难度测试RoboDojo，人类得分100分，而最强模型仅得12.8分，凸显了当前AI在物理世界任务中的巨大挑战。",
+    "is_promo": false
+  },
+  "横跨淘天与ATH事业群，硬核少年技术节下周京杭同步开幕，四项AIGX硬核成果齐发": {
+    "real_url": "https://www.qbitai.com/2026/07/446356.html",
+    "ai_summary": "下周京杭同步开幕的硬核少年技术节将展示四项AIGX硬核成果，横跨淘天与ATH事业群，聚焦技术前沿。",
+    "is_promo": false
+  },
+  "“人机共生，产需共融”——2026世界机器人大会新闻发布会在京召开": {
+    "real_url": "https://www.qbitai.com/2026/07/446226.html",
+    "ai_summary": "2026世界机器人大会新闻发布会在京召开，主题为“人机共生，产需共融”，聚焦机器人产业发展与需求融合。",
+    "is_promo": false
+  },
+  "别让AI一上来就“进厂打螺丝”：智源悟界·Orca要先教模型理解世界如何变化": {
+    "real_url": "https://www.qbitai.com/2026/07/446075.html",
+    "ai_summary": "智源研究院提出悟界·Orca模型，强调先教AI理解世界变化规律再执行任务，以提升其泛化能力，该论文登顶Hugging Face月榜。",
+    "is_promo": false
   }
 }
