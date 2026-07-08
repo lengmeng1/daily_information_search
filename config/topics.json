@@ -1,24 +1,24 @@
 {
-  "version": 1,
-  "note": "搜集类型配置：agent 对话改类型时只改这里，不用动代码。key 为内部标识，name 为展示名，keywords/sources 供真实搜索阶段使用（黑盒阶段暂未用）。",
+  "version": 2,
+  "note": "真实搜索配置：每个搜集类型可指定 queries（搜索词）与 sources（数据源）。sources 可选：google_news / arxiv / hn / duckduckgo / tavily。改类型只改这里，不用动代码。注意：google_news 链接为 Google News 中转页（点击后跳转到原文），hn/arxiv 为原文直链；想要全部直链且质量更高可给 hn/ai-news 加 tavily（需 TAVILY_API_KEY 环境变量）。",
   "topics": [
     {
       "key": "ai-news",
       "name": "AI 新发现",
-      "keywords": ["AI 新模型", "AI 产品发布", "AI 研究突破"],
-      "sources": []
+      "queries": ["人工智能 新模型 发布", "大模型 产品 发布", "AI 研究 突破"],
+      "sources": ["google_news", "hn"]
     },
     {
       "key": "ai-learn",
       "name": "AI 知识学习",
-      "keywords": ["RAG", "微调", "Agent", "提示词工程", "向量数据库"],
-      "sources": []
+      "queries": ["RAG 教程", "LoRA 微调 入门", "Agent 提示词工程", "向量数据库 原理"],
+      "sources": ["arxiv", "hn", "google_news"]
     },
     {
       "key": "ai-exp",
       "name": "AI 使用经验",
-      "keywords": ["使用技巧", "踩坑", "最佳实践", "工作流"],
-      "sources": []
+      "queries": ["AI 使用技巧 最佳实践", "大模型 踩坑 经验", "提示词 工作流 技巧"],
+      "sources": ["google_news", "hn", "duckduckgo"]
     }
   ]
 }

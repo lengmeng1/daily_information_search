@@ -20,6 +20,8 @@ jobs:
       - name: 采集并去重后提交
         env:
           TZ: Asia/Shanghai
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          PYTHONIOENCODING: utf-8
         run: |
           DATE_BJ=$(date +%Y-%m-%d)
           echo "采集日期(北京): $DATE_BJ"

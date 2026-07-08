@@ -32,7 +32,7 @@ def summarize(date_str: str) -> bool:
     out.mkdir(parents=True, exist_ok=True)
     doc = out / f"{date_str}.md"
 
-    lines = [f"# {date_str} AI 每日总结", "", f"> 自动化生成 · 共 {len(items)} 条素材", ""]
+    lines = [f"# {date_str} AI 每日总结", "", f"> 自动化生成 · 共 {len(items)} 条素材（真实网络搜索）", ""]
     for t in topics:
         key = t.get("key")
         its = by_topic.get(key, [])
@@ -40,10 +40,19 @@ def summarize(date_str: str) -> bool:
             continue
         lines.append(f"## {t.get('name', key)}")
         for it in its:
-            line = f"- {it.get('title', '')}"
-            if it.get("url"):
-                line += f" （来源：{it.get('source', '')}）"
+            title = it.get("title", "")
+            url = it.get("url", "")
+            src = it.get("source", "")
+            summary = it.get("summary", "")
+            if url:
+                line = f"- [{title}]({url})"
+            else:
+                line = f"- {title}"
+            if src:
+                line += f"  _{src}_"
             lines.append(line)
+            if summary:
+                lines.append(f"  > {summary}")
         lines.append("")
     doc.write_text("\n".join(lines), encoding="utf-8")
     print(f"[summarize] 生成 {doc}（{len(items)} 条）")
