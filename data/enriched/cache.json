@@ -318,5 +318,305 @@
     "real_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Gb045bHh6R1VySkkyT1UxalNJRG1qNnpvY3dJdDBSaFVCMGtnb0dpUXF5U3loVUxObHFRQktfd2w0WFFEMThpalJncW1EZw?oc=5",
     "ai_summary": "Hermes Agent 自进化架构的源码级拆解",
     "is_promo": false
+  },
+  "数据报告实锤：“游戏用AI、游戏Steam销量少50%”！开发者怕了": {
+    "real_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sSG5nQ19KMWlXZll3VUl2ckNZUGJzdjlIYTItdks5NFZmOFU5dTBJdXZtNEFVakkwTC0ycXVRYzgzU0wxN2FKaHA2V1lhRV81NE5lM0p3?oc=5",
+    "ai_summary": "一份数据报告显示，使用AI技术的游戏在Steam上的销量比未使用AI的游戏少50%，引发开发者担忧。",
+    "is_promo": false
+  },
+  "全链路AI深度赋能 抖音IAA小游戏开启确定性增长新周期": {
+    "real_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iTFI1Mks3N3lMZUYwQzFFTlhDUHNHT3FlejNqWFNBamNuU2JjTURzdjVKbFlMYzVsemxGbkpObk9MbEI0SklNMGQ5Ny10ZVlFUTlvM1lqMkRmZ3hMYjBTWnFOSkVCQUlDNjZR?oc=5",
+    "ai_summary": "抖音IAA小游戏通过全链路AI赋能，开启确定性增长新周期，提升开发与变现效率。",
+    "is_promo": false
+  },
+  "游戏行业从业者深度应用AI工具提升工作效率": {
+    "real_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fOWdHZ2hxZVpWWkk4NHJTRWQ1NnFfVWdIQXNBODlkdkVxTlNJd3VTSFRqMDdEalZtSzROTlpBSEVyQ0g0cHRyZVRyc2dOX1BtbDN5eg?oc=5",
+    "ai_summary": "文章探讨游戏行业从业者如何利用AI工具优化工作流程，提升开发与运营效率，为从业者提供实用参考。",
+    "is_promo": false
+  },
+  "Vibe Coding没有颠覆游戏": {
+    "real_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5iakZFd2tFVmhMb0RaWG9SN1JyeElYTENZdU9KRnZuZlBlWnRSVUZvakhUTGQ0eW5jNmlvT0pkRzMyWC12Q0w2c0wwdk5jUQ?oc=5",
+    "ai_summary": "文章指出Vibe Coding并未颠覆游戏开发，强调其技术局限和实际应用中的挑战。",
+    "is_promo": false
+  },
+  "MapleStory Universe举办的$60K AI Vibe Camp圆满落幕，共收到430+款游戏作品": {
+    "real_url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQUUFsRGlmMVhnZThCbjhPblpUMUpWN2pfa0ZDT1RnRTZibVo4aEFBRVgzUG9GemdXcVN3dThfeEFLX3ZVNGhJV2w3bl9OdHZPQ3RSMmxBOXBzOEpwZmxGVGlXR1EyeE9ic1B2cTk0eEVRRWt6SG1JSHZmWnQtWU5SOVB1NUlHX0hYTG12d3gzMHF0V1FjSklObW1lZXNqRWpZVHN1TGtzNlBUUVgyeGRKT1BXR3FBemFjckdmWDlKSXZTNDBQY3JoV3NXeFJzM1hhZEZGVGtfV3owMlpXNnpuX21KWksyT3F3R3pvLVVodWFIS0tibkE3UkRTaGNWcjA3Qi1oN1JvdjVEM3FtWXdmdlFuVlpQX0VDRHBobkc5dEhsLUJUQnRJLW1R?oc=5",
+    "ai_summary": "MapleStory Universe的$60K AI Vibe Camp活动结束，收到超过430款游戏作品，展示了AI在游戏创作中的应用。",
+    "is_promo": false
+  },
+  "研究表明，人工智能正在影响电子游戏的销量": {
+    "real_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FWE1tNHhTRU5HQzJMRjhXS0xQd2hxQU4wUmtvUWZZQkpKLWd5Y1B1andNSmhzRlhKYlQ1ZTFxSHRmZzRuSXBTNHB5YWI2WVpqQ1E4Q1l2SnplVk0?oc=5",
+    "ai_summary": "研究表明，人工智能技术正在对电子游戏的销量产生显著影响，可能改变市场格局。",
+    "is_promo": false
+  },
+  "AI 工作流技巧—100% vibe coding 完成 gamejam": {
+    "real_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZSlRfZ2tyclZxQ0ppWGt0Y2lHT3JZUzRhRklNMlpMN2I2ZDI2UXhHSnY1bHliSC1XNkJaYUZZQ3RtaWJ1NXluTk1IN2t3Zjg?oc=5",
+    "ai_summary": "本文介绍如何利用AI辅助编程（vibe coding）技巧，在GameJam游戏开发比赛中完全依靠AI完成项目，展示了AI在创意开发中的实用价值。",
+    "is_promo": false
+  },
+  "一张草图变网页，实测字节 TRAE SOLO，这些功能甚至比 Cursor 还好用": {
+    "real_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1DUGlFeEZpeEo0NTZ1QWxjTDI5VlE3VTNRXzlIYVd1YS16Vkd1V0V1enRhcDRqR3FRRWtobEpFM1JaMFU?oc=5",
+    "ai_summary": "字节跳动推出TRAE SOLO工具，可将草图直接转化为网页，实测部分功能优于Cursor，展示了AI辅助编程的新进展。",
+    "is_promo": false
+  },
+  "从入门到用好 Agent Skills，看这一篇就足够了": {
+    "real_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9XMFNCcHRvUjZJUUVkY2tRVXQ4SVlYQkFrVG1oX1ExTkNoWVZ0Nk03bEtiY2ppNEJBMjBLYUpDalJVb25ZVnppXw?oc=5",
+    "ai_summary": "本文系统介绍了Agent Skills的概念、应用场景及实践方法，帮助读者从零开始掌握智能体技能的使用。",
+    "is_promo": false
+  },
+  "完全取代Claude Code？OpenAI反击来了，推出Codex app「限时免费使用」": {
+    "real_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WUm1DbnJ5NXdsT2ZHX1drTUV0SjIwMnl3U0xHTHlLR2FCSkNxbXNEZTRPclZvYnA3ZjQtdUNuN3dZUnZKTjFmTnhQX092U1I1MnBJ?oc=5",
+    "ai_summary": "OpenAI推出Codex app限时免费使用，旨在与Claude Code竞争，提升AI编程工具市场地位。",
+    "is_promo": false
+  },
+  "10分钟打造小红书？| 42个Cursor神级提示词（全网最新最全）": {
+    "real_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CTlY5RjRnRFdsWF83dXp2RVZDQXl0cWxQSTNoTXdmU01CMEFYLXo0WER2dGw5cE5XWUlqdzNINU1VNGhZamxwUTBqWllaSEstTk1ydjlHTVRFTWROZFJJTHVXSDZoYkVyVGc?oc=5",
+    "ai_summary": "文章介绍了使用Cursor工具和42个提示词快速生成小红书内容的技巧，旨在提升内容创作效率。",
+    "is_promo": false
+  },
+  "Cursor创始人万字访谈：全球爆火的AI编程应用，真正找到PMF": {
+    "real_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9fa0VLbDg1anN5SmRkOGtGdTlFMk12YmNKQlpOQmRTZ2hhb3hOS1dmd281NW05d2ZFOGR2ZW84UGpzZVh1TVIwbA?oc=5",
+    "ai_summary": "本文通过万字访谈揭示了Cursor作为AI编程应用如何在全球爆火并成功找到产品市场契合点（PMF），探讨了其背后的产品理念与市场策略。",
+    "is_promo": false
+  },
+  "三七互娱雅典娜波塞冬阿瑞斯宙斯丘比特五大技术中台2026全景：AI如何重塑游戏工业化管线": {
+    "real_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43MmZzS3hRYU1tRUlFQWlnYzN0enRnWGtlaFdqTHlRMi1DaldoZzZyWWFId3FPQWlYQlRMdHFqTGdFbFpCUHBYdFZvNjdqdFZtZi1uT09LODVxYVNqcFE?oc=5",
+    "ai_summary": "三七互娱发布五大技术中台（雅典娜、波塞冬、阿瑞斯、宙斯、丘比特）2026年全景，展示AI如何重塑游戏工业化管线，提升研发与运营效率。",
+    "is_promo": false
+  },
+  "怎么用AI开发游戏和生成游戏素材，游戏资产生成工具平台SOON提供一站式解决方案": {
+    "real_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwWXlGcnBDU2cwb2NMYXltYW9CV2xYTzgxQUZselRpaUxheTJUTXFVd3RHaGpqT1QyODljV1k2WHpseGluX3FKTmt3dS1UYnYzcDlJMm94TEdwUGZCRGc?oc=5",
+    "ai_summary": "文章介绍SOON平台，提供AI开发游戏和生成游戏素材的一站式解决方案，帮助开发者高效创建游戏资产。",
+    "is_promo": true
+  },
+  "职业困局下的新选择：AI 重构游戏美术产业链，建模人才紧缺，湖南梵映教育科技有限公司助力学员职业新路径": {
+    "real_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nRTh0b3dGVk5UbjJTVGMtSlc1cHdhd3ZSMkN6NFVaNlM5cGxZWERfa2lsSzlKT25nd0ZnQXFuVlBZSmtQTzdKSHN2TnBTVUVFbFI1RDFLRi1uNnZHNlE?oc=5",
+    "ai_summary": "文章介绍AI重构游戏美术产业链导致建模人才紧缺，湖南梵映教育科技有限公司提供培训帮助学员进入该领域。",
+    "is_promo": true
+  },
+  "人工智能渗透3A游戏开发：育碧招聘要求精通生成式AI": {
+    "real_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yYW8xQ3B0c2ZkVWQ5Q3NIc3VFN1NMWkFIZmxSX0tzSm5CN0JYQ0gzcW9UcXBnVXFhMFBXR3R0NWFJVFpUSWY2LQ?oc=5",
+    "ai_summary": "育碧在招聘中要求精通生成式AI，显示人工智能正深入渗透3A游戏开发领域。",
+    "is_promo": false
+  },
+  "来杭州听我的分享吗？6月12日杭州创意制作人专场等你来～": {
+    "real_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15Z2xfcHN0dHNKMGlUd2NXekdDY3ZKblNDNU9tVG1acjJzUHo1cmttNDNrWUI2SXVlUzh6QWxWTVVmU1J5T3pxdC15V1hoUzQ?oc=5",
+    "ai_summary": "文章邀请读者参加6月12日在杭州举办的创意制作人专场分享活动，旨在吸引创意行业从业者参与交流。",
+    "is_promo": true
+  },
+  "在GDC，我看到AI进入“游戏时间”": {
+    "real_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9KRXhJcFY1aG0tSkNrYlU1Q081bTdneElMZkplUEJ0R1hWRks4RlVESW1naExPM0tsUnJHZEs2ckpzSUFCdTJDQQ?oc=5",
+    "ai_summary": "文章报道了GDC上AI在游戏领域的应用进展，展示了AI如何提升游戏开发效率和玩家体验，体现了AI技术进入实际游戏场景的趋势。",
+    "is_promo": false
+  },
+  "《Peak》主创分享：我们怎样设计“友尽”游戏？【GDC2026】": {
+    "real_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yTi1raHloMlBPX2VJNHBUTnZhMGw2dUVwbVFUTTFncXRGQ2kzYTA0eHJoWU9JTmc5amN3VVBiYjhDMzVCbFBpbDE1bw?oc=5",
+    "ai_summary": "《Peak》主创在GDC2026分享如何设计以破坏友谊为核心玩法的游戏，探讨其机制与玩家互动价值。",
+    "is_promo": false
+  },
+  "电子游戏装备的颜色系统背后，是数字时代的欲望与观看之道": {
+    "real_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Ec2dYSWZ6bXkxYkp1Z1ZUMTRsSi1DVEhrY21fOXVaVWUtbFoxcVpaQ0tSLTNaZDVfbHpPZVhmUlRpeVlVR2tfRVJVanFKeWxpcm82YmlHa3NGaDlWNWc?oc=5",
+    "ai_summary": "本文探讨电子游戏中装备颜色系统如何反映数字时代的欲望与观看方式，揭示其背后的文化与社会意义。",
+    "is_promo": false
+  },
+  "文化科技学院举办第八届中华电子游戏研究协会年会- Xi'an Jiaotong-Liverpool University": {
+    "real_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pZFZ4SHdqLWxvLUZ6a3VybE1MME51RDZYNEFoUXBLWWpxQWZaVEVrTm9lZjkwZ0s5QW9yNTc2Q1JjZ3VfTm51dk11azl4ZnJiRnMwT3FGZzlZWUNVNUxmQmZBLTYyeGpsM3FIQVpNV2tQZDdJczRVM1J3?oc=5",
+    "ai_summary": "西安交通大学利物浦大学文化科技学院举办第八届中华电子游戏研究协会年会，聚焦电子游戏学术研究。",
+    "is_promo": false
+  },
+  "Another Axiom团队分享《Orion Drift》开发理念与社区驱动设计经验": {
+    "real_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9aaU1oZC1jNWs1Rzg1SXZMeFlqU3JNODhlSVNNenJCYTZ0UFZ4TlJzaTVFMXlXOF9adFF0Rkxyc0pENUk?oc=5",
+    "ai_summary": "Another Axiom团队分享了《Orion Drift》的开发理念，强调社区驱动设计在游戏开发中的关键作用。",
+    "is_promo": false
+  },
+  "创新游戏制作人专场：多位专家解读创新趋势，助力研发破局": {
+    "real_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiVXlxU0RhbVRYYVBURnA5cW5GT0lVZmlTTjZXOGZpbjdYOGRRU3RfMWNSekM0eUZVeERBVlNwTVZVakN6dHJQX3R0T0dPVXRsc25CUTFmZVNiTjZVZ3U2QXFIcEw?oc=5",
+    "ai_summary": "多位专家在创新游戏制作人专场解读行业创新趋势，旨在帮助游戏研发团队突破困境。",
+    "is_promo": false
+  },
+  "Killer Bean 快速进阶技巧与心得 [2026]": {
+    "real_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQzJMVExLcEdPcUFIaHlvQ25yaXM3WmpGY2xJYUFoSVIxWlh0MThqTEd0RzMtVHY5Ul9UTUtIdHpjS2xFUFNSSjZwajRtRXotZGtKMl81UDFUeG1LVGdrRW5KYVdFYmt4cDNybkRSMWp0ZDhhUHJ5R0Rxdlc0MnhFOVl6ejE3el83VkZrU25VMVNZUDNrTFVDTzQzOGptRlNPZWxGbExEd3dUcVN6UDJYLVJCX1d1d1VBaXEtdUtydElDdEpJcEZiSVpFb0hiQUJDdkE?oc=5",
+    "ai_summary": "本文介绍了Killer Bean游戏在2026年的快速进阶技巧与心得，帮助玩家提升游戏水平。",
+    "is_promo": false
+  },
+  "Motorslice指南：技巧与心得- 战斗、跑酷及BOSS攻略": {
+    "real_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWXRjQWtzQkQ4SWVFS0ZtXzJLRk5USG95VkpyQ0pCQ09SLXlXdUpOZ0hmWUxiakJ5WWl6M0tlZ0ZNclBqTjdnbjB6R0ttS19ydi1VMVJZc211R3RUUUV6dER6NnFpb3IzSURpSlp6ek9uYml0WU0zMFBxTkFUbzVDQ2ZBbGF0R0xEelFxOGFzNjlydEd1c2VYVEw1WGRNSVc0dUxjLTgzcVF5MjlrUGxiRE9sU1RCdw?oc=5",
+    "ai_summary": "本文提供Motorslice游戏的战斗、跑酷及BOSS攻略技巧与心得，帮助玩家提升游戏表现。",
+    "is_promo": false
+  },
+  "33岁、独自一人，我怎样做一款类《动物栏：桌面牧场》游戏？": {
+    "real_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UV015VUQ1Z0tidDRlWWtVSmJka3FWcjd0bDRyWjh5OFVON0FMenU4WnBRYnZWZWExM0o0OGVVRFRtdzRaV3BaVHVTOFNUNGZqVzNreUNuekZKbEtJSHRDTHVmVDE?oc=5",
+    "ai_summary": "一位33岁的独立开发者分享独自制作类《动物栏：桌面牧场》游戏的过程与经验，展现个人创作的价值与挑战。",
+    "is_promo": false
+  },
+  "【射击游戏】TPS对比FPS战斗设计差异与心得": {
+    "real_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yS1RVYWEycURnTVFVQXhLQzBaSkNYR25mbUJJRjVCWF94R1VmMEZjb2g1TjhtVDg4TnhPckJFX2tzRnpYZGdmcTBkbw?oc=5",
+    "ai_summary": "本文对比了TPS与FPS射击游戏在战斗设计上的核心差异，包括视角、操作和体验心得，为游戏设计者提供参考。",
+    "is_promo": false
+  },
+  "边玩边唠，顺着流程聊聊《Tunic》的关卡设计中的引导": {
+    "real_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MX2M1Zm5tZDFRbkpPZ2dhcjBja25iMVFjMnRUZEJBR24wMy1sbGZDWkFOUjZNN09UTWozUk5sX2dFUUNxSzlfaEhKcVNJY2c?oc=5",
+    "ai_summary": "本文以《Tunic》为例，探讨游戏关卡设计中的引导技巧，分析如何通过流程设计自然引导玩家探索。",
+    "is_promo": false
+  },
+  "强化学习优化消除类游戏关卡设计的实践": {
+    "real_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUjdvcDhJS29Xa3c4OE9JUUk4QjUzOXFfdGJlVTVQMHY4Vk9iVy11aVRQWVdSYlJWZUpfOW9HalBGbldKVnBpVm5Uc0wzWHdDM3FVaUlKRDNOeDVIbHZ3MjhVUjRWYXVCNk1HVVpMLThSWXRGQnZSNmM5d3d1RnJCNUVFbjVvdw?oc=5",
+    "ai_summary": "本文介绍了利用强化学习优化消除类游戏关卡设计的方法，通过AWS服务实现自动化测试与迭代，提升玩家体验与设计效率。",
+    "is_promo": false
+  },
+  "1.5亿人次涌入《原神》千星奇域！": {
+    "real_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNclF5T3FOdmtKM3V3ZUtfWk5OLUFTS3BBTVdTQ19iNEo2aEROOTBjMGwzTUpJeFdxcXpuYVNEdExIakhHRTdvWlNPaXRkeHRNMy1uRVFGRXhVQmxRdzlHMXRIQTJGTmdQNzVLSXEzcXFaZFRGU2pEaVBWMWwzWUhVTDRmcDNlX0t0U2c?oc=5",
+    "ai_summary": "《原神》千星奇域活动吸引了1.5亿人次参与，展示了该游戏在全球范围内的巨大影响力和玩家热情。",
+    "is_promo": false
+  },
+  "白金工作室全新动作游戏将采用虚幻5引擎": {
+    "real_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Jd1JxakZyNnV2cDdsRUFOWk95bHF2WnBsbTdwd3dWWTU5OExwQlZLRDlXd0Vaa1dsd3hENXBDbER3NTBqdzctNUpSZG8zLThlX0NnRzkyRXdlVjN3?oc=5",
+    "ai_summary": "白金工作室宣布其全新动作游戏将采用虚幻5引擎开发，引发玩家对游戏画面和性能的期待。",
+    "is_promo": false
+  },
+  "天美关卡总监：12年育碧经验，教你从0到1创造一个开放世界": {
+    "real_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fdUhyNXlMMkhiOHBrQmRyVUJzZ3YzVVl3RFRTemZOcVViMUh5UThaUllTYVdHSXFKRzFJRGxxSDJqUzAtOEluLXl1TlJsQ2NN?oc=5",
+    "ai_summary": "天美关卡总监分享12年育碧经验，系统讲解从零构建开放世界的核心方法论与设计要点。",
+    "is_promo": false
+  },
+  "《命运2》：“跳跃&合作”所带来的关卡设计革新": {
+    "real_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE95bEdkNGN5RF9Jb0NmQTNoaUlubEZVMXBVYTN4MjlKVGU2MGRjT1RhQ1BNdzJydjFYQ3QzQjV0SHlydzlINFhvZTFtUQ?oc=5",
+    "ai_summary": "本文探讨了《命运2》如何通过跳跃与合作机制革新关卡设计，提升玩家互动与探索体验。",
+    "is_promo": false
+  },
+  "【成员访谈】03.游戏设计是一项关于传达的工作": {
+    "real_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41d0pDQkdvTXE4MkJtclppZFMzOHlRaHcwUFF4YXg4V3hlYU5odm1zQ2syQlJUdlBfM2l6c3dGUmluNDZ2dHQ1VmFYWlA4U2hQNlE2WkZCVkIwTjBJNkZzeHRKVlRURmxLakJZ?oc=5",
+    "ai_summary": "本文通过访谈探讨游戏设计作为传达工作的本质，强调设计师如何通过互动体验传递情感与思想。",
+    "is_promo": false
+  },
+  "《银河破裂者》玩家 vs 开发者：我们的经验教训": {
+    "real_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BanprRW1QR1JYQ1hSTzc1aGpaUFJGN1dqUDBRdlFDUW9OUDNoMlZsTWN6NFNsaDZUdElMekhXMk1sZXBVSzFtNkpvbVdpNV9FYmsyWndRYXM2TTVRamdHUElUcTM?oc=5",
+    "ai_summary": "《银河破裂者》开发团队分享了与玩家互动的经验教训，探讨了游戏开发中的挑战与收获。",
+    "is_promo": false
+  },
+  "聚力出海，共拓蓝海｜2026海南澄迈游戏出海沙龙（杭州站）成功举办": {
+    "real_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mRll4OWlSQ1FqWXkzRV9mUGZ3ZllVXzZlZDVIZjdhSjdBYnhCTEpGbVo2YmxVb00xdE5pbVRhTUNoZWZXbXhHZ0picHNoMXZSaGx0OWpFd29IZl9lYjR4OG1IUkRQTHRkV0NDOTNaV2p5RVFKa0NURHFySUY?oc=5",
+    "ai_summary": "2026海南澄迈游戏出海沙龙在杭州举办，聚焦游戏出海机遇与策略，助力企业拓展海外市场。",
+    "is_promo": false
+  },
+  "寻找AI时代的实战答案：光子八大议题亮相GDC，链接研发基建与用户体验": {
+    "real_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1seW9mSVFkN0dmdDA1NUE1V0pVenowR1F3c1htbEtzczlLZHU2OVU5R2VEXzFyNmtzZm80Vlk1V1BlSmdTWUI5TjFhOGNFMU0xQWpmeUlYV3BXWHFsYUEwMThvUm1JajN2Vm9n?oc=5",
+    "ai_summary": "光子工作室在GDC上提出八大议题，探讨AI时代如何通过研发基建提升用户体验，为行业提供实战答案。",
+    "is_promo": false
+  },
+  "分发、测试、社区运营：《Gorilla Tag》等团队分享App Lab平台游戏开发经验": {
+    "real_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEV3M3c0NUNC1GV1VBTGc5QkVDRTFIb2NZNXVCbVpMdzNoWjFnMmpsX0pzWG03cGp4dHgxd0NKUExtSllhOXgyeGdBcWVJemc?oc=5",
+    "ai_summary": "文章分享了《Gorilla Tag》等团队在App Lab平台开发游戏的经验，涵盖分发、测试和社区运营策略，为VR游戏开发者提供实用指导。",
+    "is_promo": false
+  },
+  "《光环》《极限竞速》《模拟飞行》同款云平台助力中国游戏开发者加速拓展全球市场– 新闻中心": {
+    "real_url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQTFNnZkZha01LUTQtemFWRFBMTml6bjBtcHpXdGNlSTFCdWM4RXJ2VjMzUGpXNG5QSzVTNGZnamlaTDl4bU1RNWZXb3ZjWmpGYlNhaE1RX0xyelRsVnhlYmktaVVpdXZ2NUM1a2NJZ1EyR2NGQ0FZdXU5R0FKTERJaE1BeldXR3hRZFJmVGY2Vld6Yk55QkxOcTU1dm55NnE4N1h0UEZiWUgyS1NUdVVBclRXcEZiTjBYclhwV04yWGRxRl9HX1l3S045TXVlZFl0NUJiWC00SWhCWGZ3UVNTX1lJdFpEUGVnVDVJVHk0LWFZS01IRVg2OGpPbm5OTnB0dnpucWtlYk8wT1RmV2M2b0FieW1TU3JEM013Zmpnb1VkcDFnRXlnNzFlbWMyNW1YNmdQc0pndG0xUEtwRnVoSk1zUXJJQTYzVzU5T2JkakgwNkE?oc=5",
+    "ai_summary": "微软云平台利用《光环》《极限竞速》等游戏的技术，帮助中国游戏开发者更快进入全球市场。",
+    "is_promo": false
+  },
+  "全球游戏技术风向标GDC召开，腾讯等中国游戏厂商分享AI、渲染等前沿游戏技术": {
+    "real_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOOW5ZVjVhdGZoR0tCRnhPUXM4d25kWWg2Nmt1NTNJd2lvYXVrbkszS0ZFZzk5X3F6ckp1aWI2VlNnVjZDMTFEdg?oc=5",
+    "ai_summary": "GDC大会上，腾讯等中国游戏厂商展示了AI、渲染等前沿游戏技术，体现了中国游戏行业的技术创新与全球影响力。",
+    "is_promo": false
+  },
+  "游戏开发中QA的现状及AI的作用": {
+    "real_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaE94UjdncnhmLXBGc1psSy1lU3JYdGVaWEJnX21LVkZyYl9kNHE4MHNkZjBrUkl3aEtfQ1BWRzRqV05kX19WZHJVM0V2LXZaUWY0MHlCdU93WHcwLTBjb2N6dERRVnNPVjFRMFEycFVwUktBcW10Q0lmNmFnN25QNTgybkxkWHNUMS0yWkpjbmxzSk1TNERlQjA0Q3cyYmxHdmt3U2dTYThjS1Q4QTVGT183ZloyTnhyMjZSZF9lUDFkc0ozTDk4NmpoR0k?oc=5",
+    "ai_summary": "文章探讨了游戏开发中QA（质量保证）的现状，并分析了AI在提升测试效率、自动化流程及优化游戏质量方面的作用与潜力。",
+    "is_promo": false
+  },
+  "RAZER在 2026 年游戏开发者大会上揭晓由 AI 驱动的未来游戏生态": {
+    "real_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CNFpta1Rkc0RDelZNTmpJX0gxTWUwd1d6SWdpNkFHcEtnS2hRLWlrRTFaWUFzZXRhajlDMndXRmdUQ3NBRENhLWk1VHdXWW1zejVFSFdvZlM?oc=5",
+    "ai_summary": "RAZER在2026年游戏开发者大会上发布了AI驱动的未来游戏生态系统，展示了其在游戏技术领域的创新方向。",
+    "is_promo": false
+  },
+  "Android 模拟器市场 2035 |规模、份额和趋势": {
+    "real_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdXMyVS1DOWdTN21Fd1hjdWNxaHhsQnVSOWNWcDdCZGlnQ0ZfaEhwX1JRaGxaMEFSQklJeWNoQzhvdkxJNkNlYWJJa0VKNTMzOURSeGJUNnUxblJyVXFtWEliS1pPU3k0alhNX2JvMlJXSEJVME16Q2gyMHlrRUUtN19QUGFiN01aTVU3MEJpekxyWkU?oc=5",
+    "ai_summary": "报告预测了Android模拟器市场到2035年的规模、份额和趋势，为行业参与者提供市场分析参考。",
+    "is_promo": false
+  },
+  "【有奖锐评】GDC 2026 游戏 AI 全面爆发，你对AI游戏怎么看": {
+    "real_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMSklTS1ZDR01UQzVMV3hHTjBZc3RWSjR0cWNuZmMxSXpDekdqbW1wUWk0NHdZbnViT3hGNnBNRy10eGtMT3A1TUpFX2hsRl9ob2pLeWYzLU9DN1ZNcFNZSndSMExlS0U?oc=5",
+    "ai_summary": "文章围绕GDC 2026游戏AI全面爆发的趋势，邀请读者参与有奖评论，探讨对AI游戏的看法。",
+    "is_promo": false
+  },
+  "为游戏本地化和测试赋能：人工智能和战略合作的力量| 熠文（上海）信息技术有限公司": {
+    "real_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMXdIOGdPV2w2ak1jLUVTQ3p4OVZuVHFxS2VQMjExMGNVQXJObHhmbFhtQUZTNWZTYW95THJCZUFybExJQ25VSTNDRnhCdU1NM2xfN2FTT1RzR3RLX25DSkFaUEV1b3Q2UGVBNDhzeGRuSFZ2WkRVcE1rSndycUZWUWpBRVdBT1lQS2tQNkNMR0xiYzc2aXYwdTlsMG8tVzdVRWF5My1weTZxMmJGU1dfUEM3TW91TjQ2ZkVRRkNPRzRSRXJKdTlv?oc=5",
+    "ai_summary": "本文探讨了人工智能与战略合作如何提升游戏本地化和测试效率，强调技术赋能与行业协作的价值。",
+    "is_promo": false
+  },
+  "Meccha Chameleon 多人联机指南：与好友畅玩教程": {
+    "real_url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNUVR0SW9mcW5GRWxNT2V1aW5xTlZRcVpUd2FJRXNLam5DSUhsd0dVYnlZUUhYRXhTUjhhby1ieXhrLXZVTDBzd2dhaXczbjNUZmtGMTB5YjYwYk01NEdVb2RDV29jcXZnQWM5X0FLekc3V254bVZSa213S0h6ejZDSlF4OHFQTU1sSGlzdnd3TlhaS2Vvems3YjVyUUVHZC16eXJVaHNxMzlfX19DY3ZOdzFnam9Ea2I0aTA4RXZ2UWQ3T2oyRVpRd2RBaHNiTUVuN19oc3hqa3p4UVBvY1BrU3Z5U3pac2k3U2xEclI0QV9tVFdtdjhkTEFMRWRhVFB4My1nNy1KUzE1QWpPbDZj?oc=5",
+    "ai_summary": "本文介绍《Meccha Chameleon》的多人联机方法，指导玩家如何与好友一起畅玩游戏。",
+    "is_promo": false
+  },
+  "《逆战未来》内测资格传火iOS怎么弄？苹果设备参与测试教程": {
+    "real_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXWnI5WmNuaG5rZWR0WmR0R2pxTmdtYzRDLTlQNk9zalB0ejJLUmg2MXFXeWl1SWUtV01xZlJBZ1MwaGE0Z0RzNldEcWNVdHJ0bjhEX2lXUl9IaHhMZkRmbTVIVm1VX1ZHU3Zwd3FoRkRQOGs?oc=5",
+    "ai_summary": "本文介绍了《逆战未来》iOS内测资格的获取方法，包括通过传火活动或官方渠道申请，并提供了苹果设备参与测试的具体步骤。",
+    "is_promo": false
+  },
+  "做手游还有奇迹？不会编程美术师1人做手游，第一个月赚了8万！": {
+    "real_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzVmQwZTJVWE1TbkdxYWt1VWxiQW8wVDI1OVpMdWpVM3RZaGtMOVR3RnIyWV9rREk5OXdQdnV1cW8tb0Q3VEw2VWJsWHRjNmQyUEswUkFFbw?oc=5",
+    "ai_summary": "文章讲述一位不会编程的美术师独自开发手游，首月收入8万元，展示个人开发手游的盈利可能性。",
+    "is_promo": false
+  },
+  "《Neverness to Everness》角色试炼玩法指南": {
+    "real_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQX1Bwd3BIUnRhSlJ4NWFnZThleml4R3E5V2xTM21MVHJZek5EbTQxS1BTcDZHZjVBV3dVaktWVGt4M3NaM3RYRUZlaUhhWDRrY0hnSGNGVGRXczlYMTdrQVg3TFhvMkxiZWZ6NDFzLTJRenFzWXo3MUdSaDY0cnVmbFM1SUFNX0tLVU1QcmFSZDdFUUg2cGx5V3ZaUXVtVzlJYUZ1eWxSYWNSNjhjV0IxMHl5dHp1c3RTMXo1U0g4ZWhGQzV2TkdjcTA5WlZrSFdTWVBUcFE5QUNmZTNXOElR?oc=5",
+    "ai_summary": "本文介绍了《Neverness to Everness》角色试炼的玩法指南，帮助玩家了解如何参与和完成试炼挑战。",
+    "is_promo": false
+  },
+  "【游戏关卡设计集】从平面布局到遭遇战设计": {
+    "real_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HSDgyQjAtYWIzZGQtVWlSZEs4QzQ2S2NEUEtjZU4tN2UyNnZfSC1MV3FKTWN1Mkt4cFZPUHRIN0pBWk5iLUlDMGVxcw?oc=5",
+    "ai_summary": "本文从平面布局到遭遇战设计，系统讲解游戏关卡设计的核心方法与实战技巧，为游戏开发者提供实用参考。",
+    "is_promo": false
+  },
+  "Neon Giant在Unreal Fest 2026分享《NO LAW》开放世界城市开发经验": {
+    "real_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlOWM0S3hqTTVnWlVOaEhWUXQ1ZHNDMHk2cElZUjViS2N0bDV2YUh3ckNhVTItZ25udmM3UEhkYWNCcFpLN0g4dms0YV93VkFwSVZqZEU3WVZiTnMwZDFjbm82NEg?oc=5",
+    "ai_summary": "Neon Giant在Unreal Fest 2026分享了开放世界游戏《NO LAW》的城市开发经验，探讨技术实现与设计理念。",
+    "is_promo": false
+  },
+  "“2026创新游戏开发者大会”在杭州圆满举行": {
+    "real_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1cW5sb09SNWEySkFnOURnTFMyMmp4RGVlQmttUjc0c1phclVnMzVXaVJLQV9HTUxFbTh6YVF2OVc2ZU1idzluVFFqYTZpY2trMDI1VjNoZU1ncS1qNHZ1UC1FU3RpMzhSTExTRENJNkR0U2ZEWGc?oc=5",
+    "ai_summary": "2026创新游戏开发者大会在杭州成功举办，聚焦游戏行业创新与开发者交流。",
+    "is_promo": false
+  },
+  "Game Jam•Unity中国开发挑战赛知乎特别场开启，5部作品直通决赛": {
+    "real_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1MNlAtcy1lTkxtMjdXSEtmRGZQeFBCbWNaZTVYNTJjWHJrbnBPT0dERFBpU3lrMHBWZDVMbHJsWGF5dkNzVFVIeXpQbTQ?oc=5",
+    "ai_summary": "Unity中国与知乎合作举办Game Jam开发挑战赛特别场，优胜的5部作品将直接晋级决赛，旨在激发游戏开发者的创意与参与。",
+    "is_promo": false
+  },
+  "【会议】2026年中国游戏开发者大会(CGDC)技术专场部分重磅嘉宾揭晓!": {
+    "real_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWTXZEVGswcmZNSXNrVjVXN2x4bG5LT0VpWkVCSTZpeG9lRVlpZXFsNC1lYnRsdE43NTZjUzB2T3hjcDJ5Ulk0bGF0WndTbjA4Y1A0WHpjNnVuTm1mT2ZHZmJyZmE?oc=5",
+    "ai_summary": "2026年中国游戏开发者大会技术专场公布部分重磅嘉宾名单，为游戏开发者提供行业交流与学习机会。",
+    "is_promo": false
+  },
+  "维塔士亮相ChinaJoy 2025：UE5跨平台技术赋能，共探游戏开发新未来": {
+    "real_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2RTVZXy1jbHo2OWNxakVMaDd6RC1iMlQxRzRDYUkzRVdqdFctOUVMNFFFQUxmWlBHSmdxRlNqS1A1RUE4ZGVvYzM3bGhOOUR6SGY0a1dOS1ZVT3hjNXc?oc=5",
+    "ai_summary": "维塔士在ChinaJoy 2025展示UE5跨平台技术，探讨游戏开发新趋势。",
+    "is_promo": false
+  },
+  "Quest Unity开发技巧：流畅稳定的无缝场景加载": {
+    "real_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9MWjRkOG04X091Tzh3blJGUnlHb0JadUg2SFIzZzdvREdRQ3VhcGVWZFNlZ0M3eXNPQ0VrOWF1VWJ3QQ?oc=5",
+    "ai_summary": "本文介绍了在Quest上使用Unity实现流畅稳定的无缝场景加载技巧，帮助开发者优化VR应用体验。",
+    "is_promo": false
+  },
+  "Unite Shanghai 2024开发者大会前瞻，干货都到碗里来～": {
+    "real_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sSEpQYTMyeE55dFZfMlhRZkdzaGlPakFKYmoyV3B3akFoN0p5TkREMGxtRkVVU21aNHRQb2xBZ0tHREpDNkM4X0ZXYw?oc=5",
+    "ai_summary": "Unite Shanghai 2024开发者大会即将举行，文章预告了大会的精彩内容和干货分享，为开发者提供技术交流与学习机会。",
+    "is_promo": false
+  },
+  "Unity 技术开放日 | 绝对干货 - Unity App开发利器，UIWidgets技术介绍": {
+    "real_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HQjJqNmg4akVzR2VJWVk1eDFTS0sxV0FsQ25WaHdrVkIydTE3V3VqZXZTRDRhV2VGaXA4WFRHZC1pNWNlZGl0YUZlVmtDSHpSZFNjSWVwVnVMM0pzRzh3Q1FB?oc=5",
+    "ai_summary": "本文介绍了Unity的UIWidgets技术，作为开发App的利器，旨在提升开发效率和应用性能。",
+    "is_promo": false
+  },
+  "雷鸟创新与长虹佳华达成战略合作，完善线上+线下营销双路径": {
+    "real_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IVjJZaWdSTVZMaTBJTjVuS045cTkxWHFSZkJkS2RERXJ2NG54ek9zb2xmcDMyTmJfTG5HdzdYc1J6OFRBSmRPc0V4Nzg?oc=5",
+    "ai_summary": "雷鸟创新与长虹佳华达成战略合作，旨在完善线上与线下结合的营销双路径。",
+    "is_promo": false
+  },
+  "是什么让你闻到了 VR 女友的丝袜味道？": {
+    "real_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAzWk4yTFA5ZXo0Z0F6dDNDS0gtMFN4ZFA0QWE0dmVWdmJUR0hUT2lJZ2w3b2tLclRKcmZPRTMzYzRhQQ?oc=5",
+    "ai_summary": "文章探讨了VR技术如何通过嗅觉模拟增强沉浸式体验，特别是与虚拟女友互动时闻到丝袜味道的可能性。",
+    "is_promo": false
   }
 }
