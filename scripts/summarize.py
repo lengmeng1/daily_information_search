@@ -51,7 +51,7 @@ def summarize(date_str: str) -> bool:
     doc = out / f"{date_str}.md"
 
     lines = [
-        f"# {date_str} AI 每日总结",
+        f"# {date_str} 每日信息总结",
         "",
         f"> 自动化生成 · 共 {len(kept)} 条素材（AI 已读正文并摘要）",
     ]
@@ -65,6 +65,10 @@ def summarize(date_str: str) -> bool:
         if not its:
             continue
         lines.append(f"## {t.get('name', key)}")
+        desc = t.get("description")
+        if desc:
+            lines.append(f"> {desc}")
+            lines.append("")
         for it in its:
             title = it.get("title", "")
             url = it.get("real_url") or it.get("url", "")

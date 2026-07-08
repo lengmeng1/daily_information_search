@@ -1,34 +1,62 @@
 {
-  "version": 2,
-  "note": "真实搜索配置：每个搜集类型可指定 queries（搜索词）与 sources（数据源）。sources 可选：google_news / arxiv / hn / duckduckgo / tavily / rss。改类型只改这里，不用动代码。注意：google_news 链接为中转页且RSS无正文，AI 仅能读标题；rss 直链源（量子位/36氪）提供真实文章URL+导语，enrich 会抓全文交给 AI 摘要。想要 google_news 也变直链+全文，可给 ai-news 加 tavily（需 TAVILY_API_KEY 环境变量）。",
+  "version": 3,
+  "note": "真实搜索配置：每个搜集类型可指定 queries（搜索词）与 sources（数据源）。sources 可选：google_news / arxiv / hn / duckduckgo / tavily / rss。改类型只改这里，不用动代码。注意：google_news 链接为中转页且RSS无正文，AI 仅能读标题；rss 直链源（量子位/36氪）提供真实文章URL+导语，enrich 会抓全文交给 AI 摘要。想要 google_news 也变直链+全文，可给对应类型加 tavily（需 TAVILY_API_KEY 环境变量）。",
   "topics": [
     {
-      "key": "ai-news",
-      "name": "AI 新发现",
-      "queries": ["人工智能 新模型 发布", "大模型 产品 发布", "AI 研究 突破"],
-      "sources": ["google_news", "hn", "rss"],
+      "key": "ai-exp",
+      "name": "AI 使用经验分享（AI + 游戏开发）",
+      "description": "聚焦 AI 工具（Cursor / Claude / ChatGPT / ComfyUI 等）在游戏开发中的实际使用经验、技巧与踩坑——AI 辅助编程、美术资产生成、剧情/关卡生成、NPC 对话等。",
+      "queries": [
+        "AI 辅助 游戏开发 经验",
+        "Cursor 游戏开发 技巧",
+        "AI 生成 游戏美术 经验",
+        "大模型 游戏开发 踩坑",
+        "AI NPC 对话 生成 经验"
+      ],
+      "sources": ["google_news", "hn", "duckduckgo", "rss"],
       "feeds": [
         {"url": "https://www.qbitai.com/feed", "name": "量子位"},
         {"url": "https://36kr.com/feed", "name": "36氪"}
       ]
     },
     {
-      "key": "ai-learn",
-      "name": "AI 知识学习",
-      "queries": ["RAG 教程", "LoRA 微调 入门", "Agent 提示词工程", "向量数据库 原理"],
-      "sources": ["arxiv", "hn", "rss"],
-      "feeds": [
-        {"url": "https://www.qbitai.com/feed", "name": "量子位"}
-      ]
+      "key": "game-design",
+      "name": "游戏设计经验分享",
+      "description": "游戏设计 / 策划实战经验——核心玩法、关卡节奏、数值与系统设计、叙事结构的方法论与案例分析。",
+      "queries": [
+        "游戏设计 经验 分享",
+        "游戏机制 设计 心得",
+        "关卡设计 经验",
+        "游戏策划 方法论",
+        "游戏数值 设计 经验"
+      ],
+      "sources": ["google_news", "hn", "duckduckgo"]
     },
     {
-      "key": "ai-exp",
-      "name": "AI 使用经验",
-      "queries": ["AI 使用技巧 最佳实践", "大模型 踩坑 经验", "提示词 工作流 技巧"],
-      "sources": ["google_news", "hn", "duckduckgo", "rss"],
-      "feeds": [
-        {"url": "https://36kr.com/feed", "name": "36氪"}
-      ]
+      "key": "game-test",
+      "name": "游戏测试经验分享 / 学习",
+      "description": "游戏测试 / QA 的实战经验与学习资料——功能测试、自动化测试、性能压测、兼容性、Bug 管理工具与流程。",
+      "queries": [
+        "游戏测试 经验 分享",
+        "游戏 QA 自动化测试",
+        "游戏测试 教程 学习",
+        "游戏 Bug 管理 流程",
+        "游戏性能测试 经验"
+      ],
+      "sources": ["google_news", "hn", "duckduckgo"]
+    },
+    {
+      "key": "game-dev",
+      "name": "游戏开发经验分享 / 学习",
+      "description": "游戏开发（引擎、编程、工具链、上线运营）的实战经验与学习资源——Unity / Unreal / Godot 等引擎技巧、性能优化、多人联机、独立游戏开发。",
+      "queries": [
+        "游戏开发 经验 分享",
+        "Unity 开发 技巧",
+        "Unreal 游戏开发 经验",
+        "独立游戏 开发 学习",
+        "游戏编程 性能优化"
+      ],
+      "sources": ["google_news", "hn", "duckduckgo"]
     }
   ]
 }
