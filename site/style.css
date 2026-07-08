@@ -1,0 +1,82 @@
+:root{
+  --bg:#f5f6f8; --panel:#ffffff; --ink:#1f2329; --sub:#646a73;
+  --line:#e5e6eb; --brand:#2f6bff; --brand-soft:#eaf1ff;
+  --accent:#00b96b; --mask:rgba(20,24,33,.82);
+  --radius:12px; --shadow:0 2px 12px rgba(0,0,0,.06);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%}
+body{font-family:-apple-system,"PingFang SC","Microsoft YaHei",Segoe UI,sans-serif;
+  background:var(--bg);color:var(--ink);line-height:1.6;-webkit-font-smoothing:antialiased}
+.app{display:flex;height:100vh;overflow:hidden}
+
+/* 侧栏 / 索引树 */
+.sidebar{width:300px;flex:0 0 300px;background:var(--panel);border-right:1px solid var(--line);
+  display:flex;flex-direction:column}
+.brand{padding:16px 18px;border-bottom:1px solid var(--line);display:flex;align-items:center;gap:10px}
+.brand .dot{width:10px;height:10px;border-radius:50%;background:var(--accent)}
+.brand h1{font-size:16px;font-weight:700}
+.brand small{display:block;color:var(--sub);font-weight:400;font-size:12px}
+.tree{padding:10px 8px;overflow:auto;flex:1}
+.node-year>.row, .node-month>.row{font-weight:600;cursor:pointer}
+.row{display:flex;align-items:center;gap:6px;padding:7px 10px;border-radius:8px;font-size:14px;user-select:none}
+.row:hover{background:var(--brand-soft)}
+.row .caret{transition:transform .15s;color:var(--sub);font-size:11px;width:12px;text-align:center}
+.collapsed>.row .caret{transform:rotate(-90deg)}
+.children{margin-left:14px;border-left:1px dashed var(--line);padding-left:4px}
+.collapsed>.children{display:none}
+.day .row{cursor:pointer;color:var(--ink);font-weight:400}
+.day .row .badge{margin-left:auto;font-size:11px;color:var(--sub);background:var(--bg);
+  border:1px solid var(--line);border-radius:10px;padding:1px 8px}
+.day.active .row{background:var(--brand);color:#fff}
+.day.active .row .badge{color:#fff;background:rgba(255,255,255,.2);border-color:transparent}
+
+/* 主内容 */
+.main{flex:1;display:flex;flex-direction:column;min-width:0}
+.topbar{padding:14px 22px;border-bottom:1px solid var(--line);background:var(--panel);
+  display:flex;align-items:center;gap:12px}
+.menu-btn{display:none;border:1px solid var(--line);background:#fff;border-radius:8px;
+  width:38px;height:38px;font-size:18px;cursor:pointer}
+.topbar .status{margin-left:auto;font-size:12px;color:var(--sub);display:flex;align-items:center;gap:6px}
+.topbar .status .led{width:8px;height:8px;border-radius:50%;background:var(--accent)}
+.content{padding:24px 28px;overflow:auto;flex:1;max-width:880px;width:100%;margin:0 auto}
+.doc-date{color:var(--sub);font-size:13px}
+.doc-title{font-size:22px;font-weight:700;margin:4px 0 18px}
+.topic{margin-bottom:22px}
+.topic h3{font-size:15px;display:flex;align-items:center;gap:8px;margin-bottom:8px}
+.topic h3 .tag{font-size:11px;background:var(--brand-soft);color:var(--brand);
+  border-radius:6px;padding:2px 8px;font-weight:600}
+.topic ul{margin-left:18px}
+.topic li{margin:4px 0}
+.topic a{color:var(--brand);text-decoration:none}
+.topic a:hover{text-decoration:underline}
+.empty,.loading{color:var(--sub);text-align:center;margin-top:80px;font-size:14px}
+blockquote{margin:6px 0 14px;padding:8px 12px;background:var(--brand-soft);border-left:3px solid var(--brand);
+  border-radius:6px;color:var(--sub);font-size:13px}
+h1.doc-title + blockquote{margin-top:-8px}
+.spinner{width:22px;height:22px;border:3px solid var(--line);border-top-color:var(--brand);
+  border-radius:50%;animation:spin .8s linear infinite;margin:0 auto 12px}
+@keyframes spin{to{transform:rotate(360deg)}}
+
+/* 维护遮罩 */
+.mask{position:fixed;inset:0;background:var(--mask);color:#fff;display:none;
+  flex-direction:column;align-items:center;justify-content:center;text-align:center;z-index:50;padding:24px}
+.mask.show{display:flex}
+.mask .ico{font-size:46px;margin-bottom:14px}
+.mask h2{font-size:22px;margin-bottom:10px}
+.mask p{color:#cdd3df;font-size:14px;max-width:420px}
+
+/* 移动端抽屉遮罩 */
+.drawer-bg{display:none;position:fixed;inset:0;background:rgba(0,0,0,.4);z-index:40}
+.drawer-bg.show{display:block}
+
+/* 响应式：移动端 */
+@media (max-width:768px){
+  .sidebar{position:fixed;left:0;top:0;bottom:0;z-index:41;transform:translateX(-100%);
+    transition:transform .22s;box-shadow:var(--shadow)}
+  .sidebar.open{transform:translateX(0)}
+  .menu-btn{display:block}
+  .content{padding:18px 16px}
+  .doc-title{font-size:19px}
+  .topbar .status .txt{display:none}
+}

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>每日信息总结</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="app">
+  <!-- 侧栏：年-月-日 树形索引 -->
+  <aside class="sidebar" id="sidebar">
+    <div class="brand">
+      <span class="dot"></span>
+      <div><h1>每日信息总结</h1><small>AI 方向 · 树形归档</small></div>
+    </div>
+    <nav class="tree" id="tree"><div class="loading">正在加载索引…</div></nav>
+  </aside>
+  <div class="drawer-bg" id="drawerBg"></div>
+
+  <!-- 主区 -->
+  <main class="main">
+    <div class="topbar">
+      <button class="menu-btn" id="menuBtn">☰</button>
+      <strong id="crumb">索引</strong>
+      <span class="status"><span class="led"></span><span class="txt" id="statusTxt">正常 · 可浏览</span></span>
+    </div>
+    <section class="content" id="content">
+      <div class="empty">← 从左侧选择某一天，查看当日的 AI 信息总结</div>
+    </section>
+  </main>
+</div>
+
+<!-- 维护遮罩（对应 status.json = maintenance） -->
+<div class="mask" id="mask">
+  <div class="ico">🛠️</div>
+  <h2>网站维护中</h2>
+  <p id="maskMsg">正在发布今日总结、更新索引，预计 07:00 恢复访问。给您带来不便敬请谅解。</p>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

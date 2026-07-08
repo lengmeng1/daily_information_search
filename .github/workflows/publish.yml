@@ -1,0 +1,69 @@
+name: publish（发布 + 部署 Pages）
+
+on:
+  schedule:
+    # 北京 06:00（UTC = 北京 - 8）
+    - cron: "0 22 * * *"
+  workflow_dispatch:
+
+# 部署 Pages 所需权限
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# 同一时间只跑一个发布，避免部署冲突
+concurrency:
+  group: pages-deploy
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 构建索引（site/index.json）
+        run: python scripts/build_index.py
+
+      - name: 维护中（先遮罩）
+        run: python scripts/status.py --set maintenance --message "正在发布今日总结，预计 07:00 恢复访问"
+
+      - name: 拷贝文档进站点
+        run: rm -rf site/docs && cp -r docs site/docs
+
+      - name: 提交站点数据（维护态）
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add site/index.json site/status.json site/docs
+          git diff --cached --quiet || git commit -m "chore(publish): rebuild index (maintenance)"
+          git push
+
+      - name: 部署（维护态）
+        id: deploy
+        uses: actions/deploy-pages@v4
+
+      - name: 企微通知
+        if: ${{ secrets.WECHAT_WEBHOOK != '' }}
+        run: python scripts/notify.py --webhook "${{ secrets.WECHAT_WEBHOOK }}" --text "每日总结已更新：https://lengmeng1.github.io/daily_information_search/"
+
+      - name: 恢复开放
+        run: python scripts/status.py --set open
+
+      - name: 提交并再次部署（开放态）
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add site/status.json
+          git diff --cached --quiet || git commit -m "chore(publish): site open"
+          git push
+
+      - name: 部署（开放态）
+        uses: actions/deploy-pages@v4

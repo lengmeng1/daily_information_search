@@ -1,0 +1,31 @@
+name: summarize（每日总结）
+
+on:
+  schedule:
+    # 北京 05:00（UTC = 北京 - 8）→ 生成「昨天」文档
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  summarize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: 生成昨日总结
+        env:
+          TZ: Asia/Shanghai
+        run: |
+          DATE_BJ=$(date -d 'yesterday' +%Y-%m-%d)
+          echo "总结日期(北京昨天): $DATE_BJ"
+          python scripts/summarize.py --date "$DATE_BJ"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs
+          git diff --cached --quiet || git commit -m "docs: summarize $DATE_BJ"
+          git push

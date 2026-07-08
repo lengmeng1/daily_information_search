@@ -1,0 +1,6 @@
+{"id": "8ba32567551c2094", "topic": "ai-news", "title": "OpenAI 发布轻量版推理模型，长上下文成本下降 40%", "url": "https://example.com/ai-news-1", "source": "AI 新发现", "collected_at": "2026-07-08T06:45:42.352941+00:00"}
+{"id": "e1906f7cde3211be", "topic": "ai-news", "title": "开源社区推出可本地运行的 7B 多模态模型", "url": "https://example.com/ai-news-2", "source": "AI 新发现", "collected_at": "2026-07-08T06:45:42.352990+00:00"}
+{"id": "91912e312e1eca71", "topic": "ai-learn", "title": "通俗理解 RAG：把检索与生成串起来，让回答有据可依", "url": "https://example.com/ai-learn-1", "source": "AI 知识学习", "collected_at": "2026-07-08T06:45:42.353011+00:00"}
+{"id": "6d9a13511e81dd4c", "topic": "ai-learn", "title": "LoRA 微调入门：只训练少量参数即可适配特定风格", "url": "https://example.com/ai-learn-2", "source": "AI 知识学习", "collected_at": "2026-07-08T06:45:42.353027+00:00"}
+{"id": "54af297b68e780d2", "topic": "ai-exp", "title": "写提示词先给角色+任务+格式+约束，命中率更高", "url": "https://example.com/ai-exp-1", "source": "AI 使用经验", "collected_at": "2026-07-08T06:45:42.353037+00:00"}
+{"id": "6b2871d0e2471aa2", "topic": "ai-exp", "title": "把长文档拆块再总结，比一次性丢进去更稳", "url": "https://example.com/ai-exp-2", "source": "AI 使用经验", "collected_at": "2026-07-08T06:45:42.353045+00:00"}
