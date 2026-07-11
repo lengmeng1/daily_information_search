@@ -1003,5 +1003,45 @@
     "real_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lQXVqR19Wdzc1Z2JPTFZ4ZHV5MUtjWTZfUmpTRE9vYnpmQ25fcTdaR3lXS2swTWg2VlItSGpuVGVXMExiOUtJTGNTSVZsbEhwSThpNjhR?oc=5",
     "ai_summary": "S15世界赛版本调整，辅助削弱、上单加强，引发对版本定制归属的讨论。",
     "is_promo": false
+  },
+  "Ai 辅助游戏开发实践（从零到上线的智能革命）-csdn博客": {
+    "real_url": "https://blog.csdn.net/ByteShoal/article/details/152268780",
+    "ai_summary": "本文介绍AI在游戏开发中的应用，包括智能角色行为设计和内容生成，旨在提升开发效率和玩家体验。",
+    "is_promo": false
+  },
+  "AI辅助游戏开发极简案例：一个解谜卡牌对战小游戏 | indienova 独立游戏": {
+    "real_url": "https://indienova.com/indie-game-development/ai-assisted-game-development-minimal-case-study/",
+    "ai_summary": "本文分享了作者如何利用AI工具Claude在一周内从零设计并实现解谜卡牌小游戏《百兽斗》的原型，展示了AI辅助游戏开发的实用案例。",
+    "is_promo": false
+  },
+  "Unity 用AI自动开发游戏近一年----最新Cursor使用心得_cursor unity-CSDN博客": {
+    "real_url": "https://blog.csdn.net/qq_42980269/article/details/156270897",
+    "ai_summary": "本文分享了使用Cursor等AI工具辅助Unity游戏开发近一年的实战心得，探讨AI如何提升开发效率。",
+    "is_promo": false
+  },
+  "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”": {
+    "real_url": "https://www.qbitai.com/2026/07/447902.html",
+    "ai_summary": "中国首个十万卡集群建成，采用全国产算力，已成功运行300余项应用，标志着算力进入十万卡时代。",
+    "is_promo": false
+  },
+  "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent": {
+    "real_url": "https://www.qbitai.com/2026/07/447873.html",
+    "ai_summary": "本文介绍如何用700词Prompt驾驭64个子Agent，使GPT-5.6在一小时内解开50年数学猜想，展示了高级AI协作技巧。",
+    "is_promo": false
+  },
+  "只剩7天！第三届蚂蚁InTech奖申报即将截止，图灵奖得主坐镇评审": {
+    "real_url": "https://www.qbitai.com/2026/07/447846.html",
+    "ai_summary": "第三届蚂蚁InTech奖申报7天后截止，由图灵奖得主评审，覆盖四大方向并直接发放奖金。",
+    "is_promo": false
+  },
+  "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放": {
+    "real_url": "https://www.qbitai.com/2026/07/447832.html",
+    "ai_summary": "许锦波团队推出MoleculeOS，将AI作为生物研发流程的组织者，标志着AI生物研发进入操作系统时代。",
+    "is_promo": false
+  },
+  "一群做自动驾驶的人，盯上了睡眠这件事": {
+    "real_url": "https://www.qbitai.com/2026/07/447796.html",
+    "ai_summary": "文章介绍了自动驾驶领域的技术团队将数据闭环方法应用于睡眠监测，通过传感器和算法优化睡眠质量，展现了跨领域技术创新的价值。",
+    "is_promo": false
   }
 }
