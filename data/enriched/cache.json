@@ -1173,5 +1173,35 @@
     "real_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LMF9mSW55SFNRN1QtLVR6RVJvUVMzczhSWGRlcjZXbVFvWjdDckNSczR4bExlSFI2cUpUVV9QdjBNbmZXc1VBN3NwTW1sX214LWc?oc=5",
     "ai_summary": "Steve Yegge预测，经过2000小时训练的AI编程能力将超越传统工程师，后者可能在一年后降级为实习生水平，引发对职业未来的思考。",
     "is_promo": false
+  },
+  "系统解耦：从耦合到涌现的游戏设计方法论": {
+    "real_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxUWZJRHZ6Rl9sOE8wVWVaOV9LYVdxTDdWZ29qbUNsUF9GTmlxRjYweFhkZ2d3U0R2aHVXeFNEOVRJTzJTVmhKUmtfTQ?oc=5",
+    "ai_summary": "本文提出一种游戏设计方法论，通过系统解耦（将紧密耦合的机制拆分为独立模块）来促进涌现式玩法，提升游戏深度与可重玩性。",
+    "is_promo": false
+  },
+  "浅谈游戏战斗设计——战斗表现": {
+    "real_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MU3lJUUpRZGVpZU05dElVWEI0U3did1JodGZIdk4tN0xIeEdvMDF0TVV1R0hhQ0VuX2ZtNk9hTld2XzBabDFNbXRENGhxQXM?oc=5",
+    "ai_summary": "本文探讨游戏战斗设计中的战斗表现，强调通过视觉、音效和反馈提升玩家沉浸感与操作体验。",
+    "is_promo": false
+  },
+  "PUBG Mobile-WOW 系统策划岗开放，负责UGC平台核心系统建设": {
+    "real_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jM3lRb3Q0clhuYlN5c3ByLTJMYklQWVZOTUNEWGRCVUtMQkVUdjJCenlQenVBa1QwY0xQb1laTm1CZnA0bHgxZTBERldCZjN2Vm5MOUUwRDdDakU3amVOSWFURms?oc=5",
+    "ai_summary": "PUBG Mobile-WOW系统策划岗位开放，负责UGC平台核心系统建设，旨在提升玩家创作体验。",
+    "is_promo": false
+  },
+  "系统策划，不能只当实现需求的“工具人”": {
+    "real_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wTFpIRXlHdE51RkQ1enMtT0VWNmNEM1l4eGxwZ3hucm1RcFpiRzY4d2c2eklzRThSVDI1MENOU3lRbEdMMnEza0VXOA?oc=5",
+    "ai_summary": "本文探讨系统策划应超越单纯执行需求，强调其需具备全局思维与设计主动性，以提升游戏品质与团队价值。",
+    "is_promo": false
+  },
+  "译介丨MDA：游戏设计和游戏研究的一种正式方法": {
+    "real_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FN1NSZmx1VzdfYlRFbU1zS3BqSmNwekJTcFVXQ2NUbE1EVGplUHUzYlVYQVFlZmNId2NrUTNmX01JbnY4SXRYQlFNSU5tZWs?oc=5",
+    "ai_summary": "本文介绍了MDA框架（机制、动态、美学），为游戏设计和研究提供了一种系统化的正式方法，帮助理解玩家体验与设计意图的对应关系。",
+    "is_promo": false
+  },
+  "诗悦网络秋季招聘：手游主策/高级数值/高级原画设计师/Erlang开发/广告投放/等": {
+    "real_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhNXZ5S2VwRG9NbWhvc0ZOVk52RjBXSWlrZWFOYkVIT1pfQV9BVjZDRktEVFE0TldWdVFrNm4zWmliSDhJaVVEamNaUkx3Skht?oc=5",
+    "ai_summary": "诗悦网络发布秋季招聘信息，招募手游主策、高级数值、高级原画设计师、Erlang开发、广告投放等多个岗位。",
+    "is_promo": false
   }
 }
