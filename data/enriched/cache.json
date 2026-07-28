@@ -1478,5 +1478,15 @@
     "real_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcDhLbHR2aDZXVlRlNDNkUS02VzNyZkRWU2lpSURRbi1IX2FJWk1YbXdfZ29JaHVtV0UxQlk5NVdmeGJYdmdaQjB4aWdpbzNyNHRJQ191XzBnM0w2Q0NURlVfZFc0VENKX3NqNkt2MFhjVU9fWHRmSWFxM2cxWmgya0F5RUtmSjJscGJCNzhUaVkzaGRPX1JVZmlsNzdfdw?oc=5",
     "ai_summary": "本文介绍了在AWS Graviton3实例上使用Amazon GameLift部署Unreal Engine 5游戏服务器的实践方法，展示了其性能优化与成本效益。",
     "is_promo": false
+  },
+  "GDC 2025 | 《三角洲行动》中的大规模关卡设计": {
+    "real_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05cS1HRkk0UmdjUG9rY3JDQUEtY0tGeGxPY0xYcmpuYWxPUUg2NGdqMEFwNXZfNzlXdTUtam0wRGN2MUZDVGx1b2RYSQ?oc=5",
+    "ai_summary": "本文介绍了《三角洲行动》在GDC 2025上分享的大规模关卡设计经验，探讨了如何构建复杂且可玩性高的游戏场景。",
+    "is_promo": false
+  },
+  "Godot的维护人员收到大量由神经网络生成的代码修改垃圾提案": {
+    "real_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TQmJfUzhfdGN6TzVpQ2RNRmpITTd6dTVNR00yNXc3YXB0NExTVnVQU0pEWjZwQzJTd2Q3am9BMVhnS0dNeWZnd0ljTDZQMGMzN2h2eFNn?oc=5",
+    "ai_summary": "Godot引擎维护者近期收到大量由神经网络生成的无效代码修改提案，这些垃圾提案增加了维护负担，干扰了正常开发流程。",
+    "is_promo": false
   }
 }
