@@ -1473,5 +1473,10 @@
     "real_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB6b0VRVTk5QnJWWkFNTHh2akJYWU5Gb0dxdEN2S1hwdEluNnJ3bGhUYUJTQnByd2c4UlFQaENobkxrYWZDNXFESw?oc=5",
     "ai_summary": "清华深研院举办AgentLand Festival 2025，聚焦Agent游戏开发的年终盛会。",
     "is_promo": false
+  },
+  "UnrealEngine 5 结合 AmazonGameLift 在 Graviton3 上的实践": {
+    "real_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcDhLbHR2aDZXVlRlNDNkUS02VzNyZkRWU2lpSURRbi1IX2FJWk1YbXdfZ29JaHVtV0UxQlk5NVdmeGJYdmdaQjB4aWdpbzNyNHRJQ191XzBnM0w2Q0NURlVfZFc0VENKX3NqNkt2MFhjVU9fWHRmSWFxM2cxWmgya0F5RUtmSjJscGJCNzhUaVkzaGRPX1JVZmlsNzdfdw?oc=5",
+    "ai_summary": "本文介绍了在AWS Graviton3实例上使用Amazon GameLift部署Unreal Engine 5游戏服务器的实践方法，展示了其性能优化与成本效益。",
+    "is_promo": false
   }
 }
