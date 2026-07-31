@@ -1543,5 +1543,15 @@
     "real_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qYW1uUDJlYzlnVEtwaEU5VDg1T3paZHc0QlhkNEFMaXltVXU2dTBESl94SWVGb2o2SDhLMWpQbGtYLUw4c3dkVWlySWtVdHV5S1lB?oc=5",
     "ai_summary": "文章探讨心动公司欲复制TapTap成功模式，吸引腾讯、网易、米哈游、鹰角、完美世界等游戏巨头参与，分析其平台战略与行业影响。",
     "is_promo": false
+  },
+  "黄一孟发布 AI Agent 产品 Cindy，TapTap 进一步开放创作生态｜TDW 2026": {
+    "real_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54UFNsMm1lX1RyZHlLRU1jN2FHbkxrRk9SRFVBZmNnUDFaMTYtTjk4R1ZSdm5EVnhtNFdHdEFnRGk1RC1uZ29rTXBlNWVEWlNvMGJMMmg4VmlFLXFKX1RMcENlRHQ?oc=5",
+    "ai_summary": "TapTap 在 TDW 2026 上发布 AI Agent 产品 Cindy，并进一步开放创作生态，旨在赋能开发者与玩家，推动平台内容创作多元化。",
+    "is_promo": false
+  },
+  "从卡顿到稳定：腾讯游戏海量支撑与容灾实践｜QCon 上海": {
+    "real_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vWEs3N2NsSk5GOWRQMzlzc1RqbWx0WUxpSmFESzhXU0g4NWxrUVZDWmFnNVlvTVVTQnFKTlRRa0VNOGlYdHp0eWc5dXFfdF92OWk1OGJ2X1VnUWp3TEE?oc=5",
+    "ai_summary": "本文介绍腾讯游戏在海量用户支撑与容灾方面的实践，分享从卡顿到稳定的技术方案与经验，适合关注高并发系统架构的开发者参考。",
+    "is_promo": false
   }
 }
