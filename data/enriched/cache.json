@@ -1553,5 +1553,55 @@
     "real_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vWEs3N2NsSk5GOWRQMzlzc1RqbWx0WUxpSmFESzhXU0g4NWxrUVZDWmFnNVlvTVVTQnFKTlRRa0VNOGlYdHp0eWc5dXFfdF92OWk1OGJ2X1VnUWp3TEE?oc=5",
     "ai_summary": "本文介绍腾讯游戏在海量用户支撑与容灾方面的实践，分享从卡顿到稳定的技术方案与经验，适合关注高并发系统架构的开发者参考。",
     "is_promo": false
+  },
+  "Ai辅助游戏开发实战指南（2026最新版） - 品乐科技": {
+    "real_url": "https://www.pinlekeji.com/wiki/ai-game-development-guide.html",
+    "ai_summary": "本文提供2026年AI辅助游戏开发全流程实战指南，涵盖美术、代码、测试、本地化及广告素材生成，并详解主流工具选型与落地策略。",
+    "is_promo": false
+  },
+  "在 WorkBuddy 上开发游戏：我的实战经验分享 - CSDN博客": {
+    "real_url": "https://blog.csdn.net/cccxcmm/article/details/160342407",
+    "ai_summary": "作者分享用AI助手WorkBuddy在2小时内开发赛博朋克FPS游戏的实战经验，重点讲解如何通过设计提示词引导AI完成开发，适合游戏爱好者参考。",
+    "is_promo": false
+  },
+  "Cursor高级技巧：10个让开发效率翻倍的实用方法（2026版） | Easton": {
+    "real_url": "https://eastondev.com/blog/zh/posts/dev/20260126-cursor-advanced-tips/",
+    "ai_summary": "本文介绍10个Cursor高级技巧，涵盖快捷键、Prompt优化、成本控制与故障恢复，帮助开发者提升AI编程效率60%并降低40%月度费用。",
+    "is_promo": false
+  },
+  "用Cursor开发游戏，真的香吗？AI程序员的福音？ - 知乎": {
+    "real_url": "https://zhuanlan.zhihu.com/p/16219065111",
+    "ai_summary": "本文探讨AI代码编辑器Cursor在游戏开发中的应用，分析其能否提升开发效率，为程序员提供参考。",
+    "is_promo": false
+  },
+  "AI顶会现场，见到了一家美妆巨头": {
+    "real_url": "https://www.qbitai.com/2026/08/464364.html",
+    "ai_summary": "欧莱雅在AI顶会现场展示了将AI技术融入美妆全链路的应用，体现美妆巨头对AI的深度布局与创新价值。",
+    "is_promo": false
+  },
+  "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI": {
+    "real_url": "https://www.qbitai.com/2026/07/464328.html",
+    "ai_summary": "SIGGRAPH时间检验奖颁给一项提前十年押中物理AI的研究，该开源项目在GitHub上已获8000多星，彰显其前瞻性与影响力。",
+    "is_promo": false
+  },
+  "刚刚，即梦 Seedance 2.5来了！我狂测测测测……": {
+    "real_url": "https://www.qbitai.com/2026/07/464329.html",
+    "ai_summary": "量子位报道即梦Seedance 2.5发布，主打行业独家30秒视频原生直出功能，并进行了实测体验。",
+    "is_promo": false
+  },
+  "视频后期，危！MiniMax H3手绘即特效，多模态的「Coding时刻」来了": {
+    "real_url": "https://www.qbitai.com/2026/07/464277.html",
+    "ai_summary": "文章介绍MiniMax H3模型在手绘即特效和多模态编码方面的突破，展现AGI时代的技术进展。",
+    "is_promo": false
+  },
+  "米哈游蔡浩宇AI创业生变": {
+    "real_url": "https://www.qbitai.com/2026/07/464169.html",
+    "ai_summary": "米哈游创始人蔡浩宇的AI创业项目发生调整，多个项目暂停，九成资源集中投入Agent方向。",
+    "is_promo": false
+  },
+  "姚顺雨拿50年数学难题成绩单，招人了": {
+    "real_url": "https://www.qbitai.com/2026/07/464100.html",
+    "ai_summary": "量子位报道姚顺雨在AI for Science方向取得50年数学难题突破，并以此成绩招募人才，展示AI在科学研究中的潜力。",
+    "is_promo": false
   }
 }
