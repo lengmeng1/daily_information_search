@@ -1763,5 +1763,15 @@
     "real_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6SVpzaTV5YmtXZUJzUU1mejBLdFk5YTBZY0sxTEh5azFVT1NwRTZmTVBZWXFpV1JuMnYwWjBiUGdtRHEtcWtkTnhGSjVBUEYwcGZF?oc=5",
     "ai_summary": "OpenAI发布Codex桌面版，支持程序员通过单一界面指挥多个AI代理协同工作，有望大幅提升开发效率，告别加班。",
     "is_promo": false
+  },
+  "Steam要求开发者披露哪些AI使用细节？": {
+    "real_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1R3ZNZG5HbHI5MU5BTTdIZTRUYjZjVWhGWGxLOUN0YTFBYWV5UEp1dC11OXo3aWg4Ny1faER1N1lhNmhra1dFaURmUFB2RmlZTkVwcW01c3BUbkVXeHJqOWNNZDRxSkhyV0VMc3RjSkNCdTBjV2FYVW56V1liVEk?oc=5",
+    "ai_summary": "Steam平台要求开发者披露游戏中使用AI的具体细节，包括AI生成内容类型及使用方式，以提升透明度和合规性。",
+    "is_promo": false
+  },
+  "消息称暴雪开发 3A 开放世界射击游戏：打破自研引擎依赖传统": {
+    "real_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4xT0ZnNDVITXZrLXQxb1JLazRHbW1pcUZtTlFkb19ZVEF3YVJhNXdqMkxUWmpWUXRkWmE5MWlDc1JZNHo3cDhDcFJoNUg?oc=5",
+    "ai_summary": "暴雪正开发一款3A开放世界射击游戏，打破其自研引擎依赖传统，或采用外部技术。",
+    "is_promo": false
   }
 }
