@@ -1873,5 +1873,35 @@
     "real_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TUWxYTGk2dXNLdVRXSkw3TGJUTHl0VkV1SmhlcHpmdmFzTFJxRGlXUkJ6N3BWZHNfR1dqeU90U0dBRjFNM2x5Rnd4ZVItYUQxZFNDV0FjYUZzcW5qWS1aM3pfOVBva2dfVGZqdnNR?oc=5",
     "ai_summary": "文章观察ChinaJoy展会，指出AI生成游戏技术已进入“一句话生成游戏”时代，但多数AI游戏产品可能因同质化或技术不成熟而面临淘汰，行业将迎来洗牌。",
     "is_promo": false
+  },
+  "Download Cursor - Code Faster with AI": {
+    "real_url": "https://cursor.com/composer?utm_source=bing&utm_campaign=[Search]%20[Brand]%20[EN]%20[Core%20T1]%20[Broad]%20[VBB]%20Brand&utm_term=composer%20cursor&utm_medium=paid&utm_content=&cc_platform=google&cc_campaignid=487724381&cc_adgroupid=1228156028964755&cc_adid=&cc_keyword=composer%20cursor&cc_matchtype=p&cc_device=c&cc_network=s&cc_placement=&cc_location=78072&cc_adposition=&msclkid=033d12dd539c1708bafd78a5c9e56129",
+    "ai_summary": "Cursor是一款AI编程开发平台，提供编码代理功能，帮助开发者规划、构建、测试和审查代码，被财富500强及全球开发者使用。",
+    "is_promo": true
+  },
+  "180万刀，连亚马逊都烧不起Claude了": {
+    "real_url": "https://www.qbitai.com/2026/08/469010.html",
+    "ai_summary": "文章指出，连亚马逊都难以承受Claude高昂的180万美元成本，质疑其烧钱模式。",
+    "is_promo": false
+  },
+  "GPT-5.6和Fable联手，解决了一道悬了25年的数学难题": {
+    "real_url": "https://www.qbitai.com/2026/08/468913.html",
+    "ai_summary": "量子位报道称，GPT-5.6与Fable联手解决了悬置25年的数学难题，作者读博时即研究此问题，17年后被AI解开，展示了AI在数学研究中的突破性价值。",
+    "is_promo": false
+  },
+  "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI": {
+    "real_url": "https://www.qbitai.com/2026/08/468782.html",
+    "ai_summary": "文章介绍中国团队在数据层面实现RSI（递归自我改进），让AI能自己出题训练自己，解决题库跟不上模型发展的问题。",
+    "is_promo": false
+  },
+  "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了": {
+    "real_url": "https://www.qbitai.com/2026/08/468766.html",
+    "ai_summary": "文章对比了Opus 5耗资6.9亿token开发游戏与GPT-5.6仅用5美元复刻的案例，探讨了AI在游戏开发中的成本效率差异。",
+    "is_promo": false
+  },
+  "爆料：哈萨比斯原本要和Jeff Dean一起走！": {
+    "real_url": "https://www.qbitai.com/2026/08/468715.html",
+    "ai_summary": "文章爆料DeepMind创始人哈萨比斯原本计划与Jeff Dean一同离开谷歌，但谷歌通过缓兵之计将其留下。",
+    "is_promo": false
   }
 }
