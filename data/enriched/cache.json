@@ -2133,5 +2133,25 @@
     "real_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qNGVtejVSYTNuNndYZGlqTVlzbnJqajlxX1dPcVg3WVhaWDJsQXlPSEY5ZTAydE9qanNyTlFpNG9YemN0UTFfX2FFMGQ?oc=5",
     "ai_summary": "文章探讨国内厂商在拼豆游戏品类中取得榜首成绩，但指出实际盈利仍主要被海外厂商获取，分析行业利润分配现状。",
     "is_promo": false
+  },
+  "好突然！米哈游要进军MOBA了_百家争鸣": {
+    "real_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yeHIyZjFnSTFYeTBpX2FVSnRVQTFGWVNYb3dCblNRcEcyY3QtTWpMXzNHYTVUSlVYeV8zdUJqeFpfUXJHMzVKc3RDTE04UjFhQmducA?oc=5",
+    "ai_summary": "米哈游突然宣布进军MOBA游戏领域，引发玩家关注，文章报道了这一消息及其背景。",
+    "is_promo": false
+  },
+  "《天使之恋Online 国际版》全球删档封闭测试正式开放 多项游玩奖励活动限时登场": {
+    "real_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRRjl5TDJQSWM3MGRXSk9FT24yQkJETGE3SW5aOE1qLVpvREJjVkJzUk1QTF9tekpJMF9hQXp4VVZYVnZ1bnVTVWFONk1YY0FhOTJ5eUlvUkpKYUhQVkd0RFhfdEw?oc=5",
+    "ai_summary": "《天使之恋Online 国际版》全球删档封闭测试正式开启，并推出多项限时游玩奖励活动。",
+    "is_promo": false
+  },
+  "零基础用 AI 做卡牌游戏原型：7天从 0 到 1，附避坑指南": {
+    "real_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hOVJVbnBzMmZDcWlSOGtLRjl1WmN2RGpqLVdCOU9SaktTRFNmRmZkaXpWYkx0U2s0cUc0ZmZESkNlWWhlMnNuQVhoZkF6bjA?oc=5",
+    "ai_summary": "本文分享零基础者用AI工具在7天内制作卡牌游戏原型的完整流程与避坑指南，强调实践价值与效率提升。",
+    "is_promo": false
+  },
+  "Unity自定义角色控制器（一）：碰撞检测": {
+    "real_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90ODBLNkU3SUNFOTFiaUZrM21rbmd6ellIX3pvcjVpZmJtVVIyNDJodFQ3UDN2RGdFN2JYMkFHZWRKZVl2eTRtTnNjSQ?oc=5",
+    "ai_summary": "本文介绍Unity中自定义角色控制器的碰撞检测实现方法，帮助开发者理解底层原理并提升控制灵活性。",
+    "is_promo": false
   }
 }
