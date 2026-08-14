@@ -2263,5 +2263,15 @@
     "real_url": "https://book.douban.com/review/17078920/",
     "ai_summary": "本文书评深入解析游戏机制的设计原理，阐述其如何通过空间、时间、道具等媒介及激励手段让游戏变得好玩，适合游戏设计爱好者阅读。",
     "is_promo": false
+  },
+  "从AI辅助编程到AI-DLC：紫讯落地 AI 原生研发新范式的实践": {
+    "real_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU2F5X3FaV2gxdHlFdExCMWJjcUhGVDdUVEQ2ak0zejU2V0xneWllRkM5TDZkU0RBd3RUd19vaDJPSlFDQ2FrVmV0Z2lyN3RGR3BXUnpzWm1LQlFfdU5MOFpFUF9hcGlneEZOUlJOV25Ud0ZTOWJaYUx5NHVFT1RGNA?oc=5",
+    "ai_summary": "本文介绍紫讯公司如何从AI辅助编程升级到AI-DLC（AI驱动开发生命周期），落地AI原生研发新范式的实践，展示了其在AWS支持下提升研发效率与质量的具体路径。",
+    "is_promo": false
+  },
+  "《天使之恋Online 国际版》全球删档封闭测试正式开放": {
+    "real_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RZ0hnUjg5dXZsRVNoaERFbmVQYnZraUowZWt2b3NwdlFrVk11OFBMYkJ1c2t1WGJJMVI3M2pxYldhWkVodE1Vdkp4c2V6SUE?oc=5",
+    "ai_summary": "《天使之恋Online 国际版》宣布全球删档封闭测试正式开启，为玩家提供体验该游戏国际版本的机会。",
+    "is_promo": false
   }
 }
