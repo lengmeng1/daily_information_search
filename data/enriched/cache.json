@@ -2178,5 +2178,90 @@
     "real_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45SHJSWlU2ZnIzeTNXVjE5ak9aSFNJemc5S1JFVkRtLXIyMUp5aEdSRDdwVWJsVnJEOFhQQjV2cHloTWJocVA4R1JSbHdwRUxvY2I2cGxmeDIzYjQ?oc=5",
     "ai_summary": "OpenAI首次在韩国举办基于Codex的游戏开发黑客马拉松，旨在推动AI辅助游戏开发创新。",
     "is_promo": false
+  },
+  "【独立开发福音】1分钟搞定全套像素风游戏美术!AI绘画+自动抠图全流程_哔哩哔哩_bilibili": {
+    "real_url": "https://www.bilibili.com/video/BV132wizyEEB/",
+    "ai_summary": "本文介绍利用AI绘画与自动抠图工具，快速生成全套像素风游戏美术的流程，适合独立开发者提升效率。",
+    "is_promo": false
+  },
+  "AI全流程制作游戏教程分享：Codex + GPT Image 2.0，从0开始完成一个可试玩游戏（附完整思路）": {
+    "real_url": "https://blog.csdn.net/weixin_41961749/article/details/162392719",
+    "ai_summary": "本文分享使用Codex和GPT Image 2.0等AI工具从零制作可试玩游戏的完整流程，强调AI在开发各环节的辅助价值，并附思路供参考。",
+    "is_promo": false
+  },
+  "3分钟生成游戏素材!独立开发者的AI美术神器_哔哩哔哩_bilibili": {
+    "real_url": "https://www.bilibili.com/video/BV17ztGzpEpr/",
+    "ai_summary": "视频介绍一款开源免费的本地AI绘图工具，可快速生成游戏素材，并分享用AI辅助独立开发游戏的经验与技巧。",
+    "is_promo": false
+  },
+  "2026年最全ai生成游戏美术素材工具深度评测，国内外一站式游戏资产生成神器解析 - 新闻快传 - 企业博客": {
+    "real_url": "https://www.cnblogs.com/123456hhcm/p/21044335",
+    "ai_summary": "本文评测2026年主流AI游戏美术生成工具，指出行业趋势转向全链路、可落地、合规化及低成本，国产工具已成游戏开发主流。",
+    "is_promo": false
+  },
+  "AI游戏美术与图片转提示词：生成角色、环境和UI素材": {
+    "real_url": "https://www.imagetoprompt.dev/zh/blog/tupian-zhuan-tishi-ci-youxi-meishu/",
+    "ai_summary": "本文从成本角度分析独立开发者使用AI制作游戏美术的经济优势，并介绍AI生成角色、环境及UI素材的流程，强调AI改变而非消除艺术技能需求。",
+    "is_promo": false
+  },
+  "如何入门游戏设计？Game Design - 知乎": {
+    "real_url": "https://zhuanlan.zhihu.com/p/681545584",
+    "ai_summary": "本文为游戏设计入门资源合集，涵盖课程、视频、网站、书籍等，面向大学生和独立开发者，提供系统学习路径。",
+    "is_promo": false
+  },
+  "20 篇游戏设计初学必读文章，手把手带你学设计!（英文资源） | Eagle 博客": {
+    "real_url": "https://cn.eagle.cool/blog/post/game-design-article",
+    "ai_summary": "本文为游戏设计初学者整理了20篇必读英文文章及18本专业书籍，涵盖基础知识与游戏心理学，帮助新手系统学习游戏设计。",
+    "is_promo": false
+  },
+  "游戏开发经验之 如何设计游戏 - 知乎 - 知乎专栏": {
+    "real_url": "https://zhuanlan.zhihu.com/p/432956134",
+    "ai_summary": "本文分享国外大牛的游戏设计经验，强调设计师需在正确时间提出正确问题，以系统化流程为玩家创造价值。",
+    "is_promo": false
+  },
+  "游戏设计经验分享：初心、思考与多技能的重要性": {
+    "real_url": "https://tieba.baidu.com/p/5654943479",
+    "ai_summary": "作者以8年小厂游戏策划经验分享游戏设计心得，强调初心、思考与多技能对做好游戏的重要性，并鼓励独立游戏开发者。",
+    "is_promo": false
+  },
+  "【万字长文】新手游戏设计师进阶指南 - GameRes游资网": {
+    "real_url": "https://www.gameres.com/911695.html",
+    "ai_summary": "本文面向新手游戏设计师，提出进阶三大核心：知识输入、正确思维模式与实践，重点剖析设计师需对抗的心智陷阱，提供系统成长路径。",
+    "is_promo": false
+  },
+  "如何从无到有进行游戏设计？ - 知乎": {
+    "real_url": "https://www.zhihu.com/question/33501667",
+    "ai_summary": "本文探讨了从零开始设计2D游戏的方法，涵盖游戏模式、程序实现等核心环节，为游戏设计初学者提供系统思路。",
+    "is_promo": false
+  },
+  "游戏玩法设计的核心——游戏机制 - 知乎": {
+    "real_url": "https://zhuanlan.zhihu.com/p/687309914",
+    "ai_summary": "本文探讨游戏机制与玩法的核心关系，以超级马里奥为例说明机制是玩法设计的基础。",
+    "is_promo": false
+  },
+  "游戏设计心得体会教育材料 - 百度文库": {
+    "real_url": "https://wenku.baidu.com/view/9d983443b3360b4c2e3f5727a5e9856a5612269b.html",
+    "ai_summary": "文章分享游戏设计心得，强调核心机制缺失是常见问题，需聚焦简单机制并满足玩家心理需求。",
+    "is_promo": false
+  },
+  "【游戏设计】机制设计 - Csdn博客": {
+    "real_url": "https://blog.csdn.net/Figure_Out_PSY/article/details/153520060",
+    "ai_summary": "本文系统解析游戏机制设计，涵盖设计哲学、MDA理论框架、原则陷阱及实践流程，为游戏设计者提供核心方法论与实用指导。",
+    "is_promo": false
+  },
+  "《游戏机制——高级游戏设计技术》（上） - 知乎": {
+    "real_url": "https://zhuanlan.zhihu.com/p/571985146",
+    "ai_summary": "本文是《游戏机制——高级游戏设计技术》的读书笔记，重点解析突现与渐进机制的定义差异，并辅以案例帮助理解游戏设计核心。",
+    "is_promo": false
+  },
+  "《Practical Game Design》第五章：游戏机制设计 - 哔哩哔哩": {
+    "real_url": "https://www.bilibili.com/opus/1104113973015347241",
+    "ai_summary": "本文解读《Practical Game Design》第五章，探讨游戏机制的定义与设计要点，帮助读者理解游戏设计核心概念。",
+    "is_promo": false
+  },
+  "游戏机制的设计（游戏为什么好玩）书评": {
+    "real_url": "https://book.douban.com/review/17078920/",
+    "ai_summary": "本文书评深入解析游戏机制的设计原理，阐述其如何通过空间、时间、道具等媒介及激励手段让游戏变得好玩，适合游戏设计爱好者阅读。",
+    "is_promo": false
   }
 }
