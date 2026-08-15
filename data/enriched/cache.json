@@ -2363,5 +2363,10 @@
     "real_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE10Um9ha2phRk1hX09SSnNqWEd1c0M3NFZMSFQ1bE1xOVpKckFiM2poMDQtNjJtMTVJbVRzRk1fX1hQejg?oc=5",
     "ai_summary": "本文讲述独立VR游戏《Plastic Battlegrounds》从开发崩溃到成为爆款的历程，剖析其成功经验与价值。",
     "is_promo": false
+  },
+  "Amazon GameLift 从入门到精通（二）拆解游戏接入 Gamelift 三大步骤": {
+    "real_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaDlucmNzUkpycjYxc0ZGNlp4R2NRQkFYalNDOVBibVpDWnExQ3R3STlVQ3RqTWIzZm9JQW9icUQyUzhUUW9EZXR4MXNoUWFwc2FOV3NsV04xdS1RWmJ5bjkyeC1GdzF4ZFJYeHgtTU8xRXdUY1BCbVRRRmVXS1hwdUVBdVZJb2JTc0psbXV3bHpyRkRr?oc=5",
+    "ai_summary": "本文拆解游戏接入Amazon GameLift的三大步骤，帮助开发者理解并上手该游戏服务器托管服务。",
+    "is_promo": false
   }
 }
