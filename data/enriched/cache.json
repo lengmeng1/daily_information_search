@@ -2453,5 +2453,45 @@
     "real_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51U2tiSjg0QUNtQnNTMF9FUXRkLXhRMnAtblhBZnQwMkpRYUpmU1F2endobWljZ2NrQnhRc2F0bFhwajVUVjZzbVZqczd0dC01ZmljQWV6OHdmY25BMVRPZUhYbkE?oc=5",
     "ai_summary": "米哈游曝光新预研项目，为写实风格射击游戏，引发玩家关注。",
     "is_promo": false
+  },
+  "用AI辅助开发Cocos小游戏：我的完整工作流与效率对比 | Easton": {
+    "real_url": "https://eastondev.com/blog/zh/posts/dev/20260523-ai-cocos-game-workflow/",
+    "ai_summary": "作者分享了用AI辅助开发Cocos小游戏的完整工作流，涵盖工具选择、五个阶段实战经验及效率对比，展示了从策划到上线仅需3天的实践成果。",
+    "is_promo": false
+  },
+  "Ai辅助的独立游戏开发实践与思考 - 百度文库": {
+    "real_url": "https://wenku.baidu.com/noteview/53fbea4e2f160b4e767f5acfa1c7aa00b52a9df9.html",
+    "ai_summary": "作者基于二十年游戏行业经验，分享AI辅助独立游戏开发的实践方法与思考，为开发者提供实用参考。",
+    "is_promo": false
+  },
+  "杭州95后小伙，5亿买走硅谷城堡": {
+    "real_url": "https://www.qbitai.com/2026/08/474245.html",
+    "ai_summary": "杭州95后小伙斥资5亿买下硅谷城堡，引发关注，文章讲述其背景与商业动向。",
+    "is_promo": false
+  },
+  "李飞飞最新访谈：AI咋能代替人呢？": {
+    "real_url": "https://www.qbitai.com/2026/08/474140.html",
+    "ai_summary": "李飞飞在最新访谈中强调，AI并非替代人类，而是放大个人能力的工具，旨在厘清AI与人类协作关系的核心价值。",
+    "is_promo": false
+  },
+  "“B站教AI”爆火后，北航90后副教授何静回应一切": {
+    "real_url": "https://www.qbitai.com/2026/08/474064.html",
+    "ai_summary": "北航90后副教授何静回应其B站AI教学视频爆火后的争议与关注，分享个人经历与教学理念。",
+    "is_promo": false
+  },
+  "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队": {
+    "real_url": "https://www.qbitai.com/2026/08/473972.html",
+    "ai_summary": "本文介绍WorkSwarm作为办公智能体新范式，通过四项关键能力让AI从单一助手进化为协同团队，提升办公效率。",
+    "is_promo": false
+  },
+  "牛来！A社营收暴涨1400%，最新季度入账115亿美元": {
+    "real_url": "https://www.qbitai.com/2026/08/473947.html",
+    "ai_summary": "A社营收暴涨1400%，最新季度入账115亿美元，估值有望超越SpaceX成为史上最高IPO。",
+    "is_promo": false
+  },
+  "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%": {
+    "real_url": "https://www.qbitai.com/2026/08/473876.html",
+    "ai_summary": "至知研究院提出大模型可解释性新路线，通过拆解权重实现理解，数据成本不到1%。",
+    "is_promo": false
   }
 }
