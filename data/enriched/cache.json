@@ -2553,5 +2553,10 @@
     "real_url": "https://www.qbitai.com/2026/08/474334.html",
     "ai_summary": "本文报道了世界模型技术的新进展，实现了24FPS画面与48kHz立体声的实时生成，标志着世界模型进入有声时代，并预告将完全开源。",
     "is_promo": false
+  },
+  "游戏数值设计经验分享": {
+    "real_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55RXZpVVdUNnJfei1lSkZhdGV6U0p3eHNWNzRrY0NQMHJ6NmVwcW9LMVZybTZWeUo3LWxjSEFYRzJ2cm1LdjZyZ1ZubFZhS00?oc=5",
+    "ai_summary": "本文分享了游戏数值设计的实战经验，涵盖平衡性调整与玩家体验优化，对游戏开发者有参考价值。",
+    "is_promo": false
   }
 }
