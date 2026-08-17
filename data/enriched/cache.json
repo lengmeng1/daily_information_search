@@ -2518,5 +2518,40 @@
     "real_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcDk0NWZBZklTd3RGWXlVMDctTU5pYmR4b3FzeXNzbE5nRG83TkM4dGtFUnRaakhfT2IxeEdkQXpzaDRUWXJXWWVNa3VuWEpVMklGUWowX3p4ZkQ0THdwTk5PNm5tUm9nLXhBUUY0ajFHT1FpeEJJbjY2ME1vRmFlb0hrWklJWkxkd2tFTXpRcUg1Tk8xNnZtcFh1b0dMT2lmTlVySWNQbDFjbXFzRlBzbjBEemJ2djF3bjFNLTRQMFo?oc=5",
     "ai_summary": "《Ember and Blade》是一款融合MMO、吸血鬼幸存者、哈迪斯和艾尔登法环元素的游戏，文章介绍其致敬与特色。",
     "is_promo": false
+  },
+  "Cursor 实践案例 | Cursor Practice": {
+    "real_url": "https://cursorpractice.com/zh/cursor-practice/cursor-game-01-mini-games-zh",
+    "ai_summary": "本文介绍Cursor在游戏开发中的实践案例，展示其提升开发效率、加速学习、提升质量与创意实现的价值，并规划了多人模式和成就系统等未来功能。",
+    "is_promo": false
+  },
+  "AI编程助手Cursor开发俄罗斯方块实战指南 - CSDN博客": {
+    "real_url": "https://blog.csdn.net/weixin_29039773/article/details/163809950",
+    "ai_summary": "本文以俄罗斯方块开发为例，介绍AI编程助手Cursor如何通过自然语言交互自动生成代码，提升开发效率。",
+    "is_promo": false
+  },
+  "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”": {
+    "real_url": "https://www.qbitai.com/2026/08/474537.html",
+    "ai_summary": "具身智能初创公司共生知行发布双足人形机器人驾驶卡丁车的Demo，旨在通过卡丁车测试双足机器人的全身智能能力。",
+    "is_promo": false
+  },
+  "人形机器人开始打国球了！两台机器人完整打完11分制比赛": {
+    "real_url": "https://www.qbitai.com/2026/08/474518.html",
+    "ai_summary": "量子位报道人形机器人已能自主完成乒乓球对打，完整打完11分制比赛，展示其运动控制与智能决策能力。",
+    "is_promo": false
+  },
+  "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想": {
+    "real_url": "https://www.qbitai.com/2026/08/474381.html",
+    "ai_summary": "菲尔兹奖得主指出，AI在数学领域的显著突破目前主要集中于寻找反例，以挑战或推翻重大数学猜想，而非直接证明。",
+    "is_promo": false
+  },
+  "快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用": {
+    "real_url": "https://www.qbitai.com/2026/08/474361.html",
+    "ai_summary": "智谱GLM-5.3模型首发上线范式PhanRouter，并即日开放调用，为开发者提供新选择。",
+    "is_promo": false
+  },
+  "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成": {
+    "real_url": "https://www.qbitai.com/2026/08/474334.html",
+    "ai_summary": "本文报道了世界模型技术的新进展，实现了24FPS画面与48kHz立体声的实时生成，标志着世界模型进入有声时代，并预告将完全开源。",
+    "is_promo": false
   }
 }
