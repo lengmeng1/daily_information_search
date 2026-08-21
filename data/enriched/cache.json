@@ -2733,5 +2733,10 @@
     "real_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sQTh2LWJ5SDV0T3dRZ0dOWW5ScmtzMlZBdWtGdkVZSFhGM1N4LWJTYlRIY1V5S3NmSXF2VXFobDFaU3dKb1dvNXhjU09nLVBucVFPSjg5bTNXTjF4X2c?oc=5",
     "ai_summary": "本文详解新西兰游戏设计硕士的申请要求，重点分析作品集与语言门槛的难度，为有意申请者提供参考。",
     "is_promo": false
+  },
+  "微软抵制Cursor？新版C/C++插件不给用，只因它不是“官方 VS Code”！": {
+    "real_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HM3B0bklqdUI0WEtWTll1UnRHZkdlUUVoQTcwSVAyRzU3X2FjMnpJODJUaDBHOVJ2cXJRSGRIaFhTV25udTFxSG9SaGs3YlJNZTNoM0xfRnlhMFN0RnpCNTJTSW1Jdjg?oc=5",
+    "ai_summary": "文章报道微软新版C/C++插件不再支持Cursor等非官方VS Code分支，引发用户对微软限制第三方编辑器的讨论。",
+    "is_promo": false
   }
 }
