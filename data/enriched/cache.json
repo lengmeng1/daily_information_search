@@ -3208,5 +3208,40 @@
     "real_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81NVlqU0R1dlpSb3NBN2dBaWZIVWdfU2ZDOUxKV3plakdJZnZ4S0ZNTHI0UldvanZQS2pscXFmYUpvbVhmUGczVXRGYVBrM0ppM1gzX1VfX1NYUjkzaVE?oc=5",
     "ai_summary": "文章探讨AI技术对游戏行业岗位边界的影响，分析游戏公司在AI时代对人才的新需求。",
     "is_promo": true
+  },
+  "2026年，用Phaser游戏开发还能这么玩？效率狂飙的秘诀全在这里!": {
+    "real_url": "https://www.toutiao.com/article/7617301785815876138/",
+    "ai_summary": "本文介绍2026年Phaser游戏开发的高效技巧，重点讲解通过Phaser Editor v5配置AI助手辅助开发，提升效率。",
+    "is_promo": false
+  },
+  "“没有Token的CS学生，应立即退学”": {
+    "real_url": "https://www.qbitai.com/2026/09/483839.html",
+    "ai_summary": "文章讨论CS学生因缺乏Token资源而面临学习困境，主张其应退学，反映AI时代编程教育对算力资源的依赖。",
+    "is_promo": false
+  },
+  "腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场": {
+    "real_url": "https://www.qbitai.com/2026/09/483786.html",
+    "ai_summary": "腾讯WorkBuddy推出联名硬件，涵盖眼镜、耳机、麦克风等设备，首批已有100多家合作伙伴加入，拓展AI办公生态。",
+    "is_promo": false
+  },
+  "世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！": {
+    "real_url": "https://www.qbitai.com/2026/09/483189.html",
+    "ai_summary": "文章介绍世界生成模型进入3D头部玩家领域，实现单图直出场景，标志场景级生成时代来临，并提及该技术源自顶会最佳论文落地。",
+    "is_promo": false
+  },
+  "陈大年复出，入局大模型": {
+    "real_url": "https://www.qbitai.com/2026/09/483600.html",
+    "ai_summary": "陈大年复出并进军大模型领域，其首秀产品性能接近DeepSeek万亿级旗舰模型，引发行业关注。",
+    "is_promo": false
+  },
+  "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠": {
+    "real_url": "https://www.qbitai.com/2026/09/483565.html",
+    "ai_summary": "本文介绍它石智航AWE3.7模型，强调其跨场景泛化能力，能从工厂应用延伸至家庭环境，展现技术实力。",
+    "is_promo": false
+  },
+  "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光": {
+    "real_url": "https://www.qbitai.com/2026/09/483552.html",
+    "ai_summary": "神秘具身团队发布一系列演示视频，展示自进化模型技术路线，引发行业关注。",
+    "is_promo": false
   }
 }
