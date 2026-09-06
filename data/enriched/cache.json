@@ -3398,5 +3398,40 @@
     "real_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ydndDZGl6SmRpS01mUTlqWGh2N2JJSWx0X0RrOE9idjJVLTZ1UEFQYU9PX0lIenVHY3NmcS1sdno1anlnSE5kRThmanByUQ?oc=5",
     "ai_summary": "银河真人国际网址负责人透露，公司正将特色融入新作开发，而旧作重制短期内不会进行。",
     "is_promo": true
+  },
+  "AI辅助游戏开发实战：Kimi K3提升Unity开发效率与代码质量-CSDN博客": {
+    "real_url": "https://blog.csdn.net/weixin_30430677/article/details/163647881",
+    "ai_summary": "本文介绍AI辅助游戏开发的工作模式，强调AI作为副驾驶处理繁琐任务，以提升Unity开发效率与代码质量。",
+    "is_promo": false
+  },
+  "B站首届AI创造公开赛收官，超八成参赛者为一人团队": {
+    "real_url": "https://www.qbitai.com/2026/09/484890.html",
+    "ai_summary": "B站首届AI创造公开赛收官，超八成参赛者为一人团队，反映AI工具降低创作门槛、赋能个人创作者的趋势。",
+    "is_promo": false
+  },
+  "GPT-6带火循环Transformer，阿里早已布局": {
+    "real_url": "https://www.qbitai.com/2026/09/484726.html",
+    "ai_summary": "文章介绍循环Transformer技术因GPT-6而受关注，并指出阿里已提前布局该领域，体现其技术前瞻性。",
+    "is_promo": false
+  },
+  "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司": {
+    "real_url": "https://www.qbitai.com/2026/09/484683.html",
+    "ai_summary": "硅谷老将因看好中国世界模型公司技术潜力而投资，文章聚焦其押注AI预演暴雨等场景的决策逻辑与价值。",
+    "is_promo": false
+  },
+  "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕": {
+    "real_url": "https://www.qbitai.com/2026/09/484649.html",
+    "ai_summary": "陶哲轩指出AI在孪生素数问题上直接给出正确答案，但关键不在于答案本身，引发对AI推理过程的思考。",
+    "is_promo": false
+  },
+  "这个世界模型训练完就“退场”，机器人反而更能干了": {
+    "real_url": "https://www.qbitai.com/2026/09/484611.html",
+    "ai_summary": "本文介绍了一种反直觉的机器人训练方法，即训练完世界模型后将其“退场”，反而提升了机器人的任务表现，探讨了其实现原理与价值。",
+    "is_promo": false
+  },
+  "姚班校友主导，Claude攻克费马大定理首个完整形式化证明": {
+    "real_url": "https://www.qbitai.com/2026/09/484551.html",
+    "ai_summary": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明，展示AI在数学推理上的突破。",
+    "is_promo": false
   }
 }
