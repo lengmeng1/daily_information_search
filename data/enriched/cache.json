@@ -3513,5 +3513,40 @@
     "real_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CZS1fNmkyMTFBc2RQSXByMWl0MnJaVDlnNEZTamJDTGdLamN2UUVaVWpna3JYa3Y1Nk1EQ1Jud0RyOGdlVFpaR0JJXzkzTndfZGF4aVpVb0hvZjRILUk3SUNueTNQRzJ6R2ZiM1ZUMA?oc=5",
     "ai_summary": "该网页标题为《钓鱼狂潮第二章游戏测试》，来源games.gg，但正文内容仅有标题本身，未提供任何实质性的游戏测试信息或评测内容。",
     "is_promo": false
+  },
+  "2026年更新 | Cursor完整指南：从新手到专家 - AICompareNet Blog": {
+    "real_url": "https://aicomparenet.com/zh/blog/2026-updated-cursor-complete-guide-from-beginner-to-pro",
+    "ai_summary": "本文是Cursor的完整使用指南，涵盖安装、Agent与Plan模式等核心功能，以及Rules和TDD工作流等高级实践，并附快捷键速查表，帮助开发者从新手成长为专家、提升编码效率。",
+    "is_promo": false
+  },
+  "ECCV上，顶尖学者们开始研究如何让AI做生意了": {
+    "real_url": "https://www.qbitai.com/2026/09/486934.html",
+    "ai_summary": "本文报道了ECCV会议上顶尖学者对多模态AI在商业场景应用的研究，全球64支团队参与解题，展示了AI在商业领域的前沿探索。",
+    "is_promo": false
+  },
+  "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口": {
+    "real_url": "https://www.qbitai.com/2026/09/486900.html",
+    "ai_summary": "高德发布全球首个3D原生城市世界模型ABot-Earth 0.7，旨在构建AI理解真实世界的入口。",
+    "is_promo": false
+  },
+  "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源": {
+    "real_url": "https://www.qbitai.com/2026/09/486747.html",
+    "ai_summary": "大晓机器人联合南洋理工大学S-Lab、上海人工智能实验室发布全球首个可仿真的人-场景交互重建框架HSImul3R，旨在将人类视频转化为机器人可用的技能来源。",
+    "is_promo": false
+  },
+  "这个新开源的世界模型只有1.3B，单卡就能实时跑！": {
+    "real_url": "https://www.qbitai.com/2026/09/486716.html",
+    "ai_summary": "量子位报道开源世界模型 LingBot-World 2.0 轻量版，仅 1.3B 参数即可单卡实时运行，降低了世界模型的部署门槛。",
+    "is_promo": false
+  },
+  "AGI时代的第一个生图模型，ChatGPT Images 2.5上线": {
+    "real_url": "https://www.qbitai.com/2026/09/486684.html",
+    "ai_summary": "量子位报道称，AGI时代的首个生图模型ChatGPT Images 2.5上线，主打生成速度更快、细节更优，改图体验更接近真实修图。",
+    "is_promo": false
+  },
+  "营销科技巨头蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，让品牌更高效连接全球500万创作者": {
+    "real_url": "https://www.qbitai.com/2026/09/486651.html",
+    "ai_summary": "蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，旨在通过AI技术让品牌更高效地连接全球500万创作者，实现海外达人营销从单次投放向可规模化增长系统的升级。",
+    "is_promo": false
   }
 }
