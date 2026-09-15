@@ -3648,5 +3648,55 @@
     "real_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvTFNULTdSS3U2ZDNOdzJhOHVrMk9RYUsxWGkydlljcVBENHRxRDV3RDB5amxCdHlxWHdRU2J2VEwxVTAxbkVlc1dOWVQ3MTZXTXpubWNxcndCMlVtRWRCMGZ5YlRoN3VsUzZycVUxcDNWdHRYYmtaSg?oc=5",
     "ai_summary": "文章讨论AI代码生成工具让开发者能在24小时内做出小游戏，但游戏完成后的分发渠道成为最大难题。",
     "is_promo": false
+  },
+  "当 AI 成为玩法本身：三位制作人的实战手册": {
+    "real_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsX1JTRVNZbnc0UHZOQ3QzSzliR3RkMWN0dkxmTXlFSjdNSGdJOHpXZXg2eDJzak1Dd0ZDSkZ0Y0VSajRWU1RQenlvUURSMG8?oc=5",
+    "ai_summary": "本文介绍三位游戏制作人如何将AI技术融入游戏玩法设计的实战经验，探讨AI从辅助工具转变为游戏核心机制的思路与方法。",
+    "is_promo": false
+  },
+  "当开发者遇见平台生态：M娱乐客户端大厅的技术实践、效率提升与长期主义": {
+    "real_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDRVF3ZU9ZcWQ1bVM4bElRUHJDV1B4b2QwR2FTdFRDelVMN24zWnY3TThUbmJlTGl1cmxCaGhNMk9nMkU2Q3RveXRIUkVOaFBNVUE?oc=5",
+    "ai_summary": "该内容标题涉及M娱乐客户端大厅的技术实践与效率提升，但正文仅有标题，无实质信息，无法提供有效摘要。",
+    "is_promo": true
+  },
+  "倒计时9天！看Demo、上手实操，英特尔这场大会让你一站式啃完智能体、端侧AI与算力干货": {
+    "real_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Lelowd1JGWU5BWW1GOUlnMkdScW9aR0R1Z0pJaDhtaldNZlVfaUZsRlVpcWFhMTBrZUV0SXNKQ1g0dGwtdWItWQ?oc=5",
+    "ai_summary": "英特尔即将举办一场大会，通过Demo演示和实操环节，集中展示智能体、端侧AI与算力方面的技术干货。",
+    "is_promo": true
+  },
+  "Anthropic指控中国大模型蒸馏：议程陷阱、技术伦理与地缘风险": {
+    "real_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uT1FxTmxuV3VmejJ4bWFnb3BnN243U3ppN3VBNGt0ZWZtSmNGeGhsY1FIelRNRmVyQ2Y4TUFGQXYxdm9wbDVNdlRUUTE0RWdQMzFoUQ?oc=5",
+    "ai_summary": "文章围绕Anthropic指控中国大模型蒸馏一事，分析其背后的议程陷阱、技术伦理争议与地缘政治风险，帮助读者理解该指控的动机与影响。",
+    "is_promo": false
+  },
+  "算力缺的不是“卡”，而是Token丨ToB产业观察": {
+    "real_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsamZseG9OZ2F6SkRaN1NmeHd4d0hSTnp0NkE1cU1SNFlJYlRUcmZjZUVJUW04UkdNNThMVmYxSnplY2FkM0tLcEhMU3VPWVRsZkx5TEFwckdLQ2pkVndydXpVSQ?oc=5",
+    "ai_summary": "文章指出当前AI算力瓶颈的核心并非GPU等硬件短缺，而是Token（数据与计算单元）的供给与效率问题，为ToB产业理解算力经济提供了新视角。",
+    "is_promo": false
+  },
+  "开发调度总踩坑？用这套pg游戏官方网站下载方案，快速解决时间冲突与适配难题": {
+    "real_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpX2Q5U1QwZTVNTGhWSzBKQ2J2UXhFTmM0VDQxNUF4YmoyLVM5bF9MZk1LaDBQNkpkVGdldGlXbG4tU1M1ZUN5bWxOOUZQeUV6RkRtT2trUmluSXBoRXc?oc=5",
+    "ai_summary": "该网页标题和正文以解决开发调度问题为名，实际推广所谓pg游戏官方网站下载方案，属于赌博相关引流广告内容。",
+    "is_promo": true
+  },
+  "AI这块香饽饽，“灯厂”雷蛇也要来分一分": {
+    "real_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xb0FwWEVyUVlkYmRiX0otRlJYbUVpb3NTQkE1dUdSVDdSemwtcmpWUjJpOUNueXY3SUhvVTBlSEpaT2JnU1dTOV9tbDEzelJZQzZpcy1B?oc=5",
+    "ai_summary": "文章标题指出雷蛇（俗称“灯厂”）也要进军AI领域分一杯羹，但正文内容缺失，无法提供更具体的摘要。",
+    "is_promo": false
+  },
+  "爱游戏cc火影忍者办公新趋势：提升团队协作与效率的智能工具": {
+    "real_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HMThxOEU4UVZDOVA2anplMnZEeGtRaWl3S2hFY1NnWHV2U3BwbXRORGUzV0xWdEdaRnVPelZhR25CQlQ1QkN5dWpaNXlyR2c?oc=5",
+    "ai_summary": "该网页标题和正文仅堆砌“爱游戏cc火影忍者办公新趋势”等关键词，未提供任何实质信息，疑似为推广引流内容。",
+    "is_promo": true
+  },
+  "《城市游戏工作室》深色模式被遗忘在黑暗中": {
+    "real_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjRi1BeWVscVNRalBBTFZjSUZoRFdDNDgydk44eGdhZHlDODBuYy02cVdNcVczdk9PZFl3am5RZ2MzdVBsOFJ3R2NMUHNuNmVDN3hzSmNTcHhvX0xsQU40X01yeWM?oc=5",
+    "ai_summary": "本文标题为《城市游戏工作室》深色模式被遗忘在黑暗中，但正文内容缺失，无法获取具体信息。",
+    "is_promo": false
+  },
+  "中福在线最新款游戏_游戏资讯_AMD显卡驱动出Bug：Linux下3D性能暴跌50%！": {
+    "real_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uOUJRLWVWUkM3UlUxS0ZObzB6bkJ6N1hob3VHYXVITkRYVEtZeWxHTnVoU013blpuVUhCOEg2RGRjaHFmMTkydGJHVHdOR1d2Sk1z?oc=5",
+    "ai_summary": "该网页标题和正文混杂了'中福在线最新款游戏'等博彩推广关键词与AMD显卡驱动Bug的资讯标题，实质为博彩引流广告内容，无有效资讯价值。",
+    "is_promo": true
   }
 }
