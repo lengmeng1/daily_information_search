@@ -3703,5 +3703,15 @@
     "real_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yTjZOa3NwLWlCSlFqX2lXNDliMWM0WDBSdm1yMXVNNG1PYXJ5UXBsLWNxN0FMdlNxanhCa1oteFhzb1VJVU8yRzVpc0VNNXZG?oc=5",
     "ai_summary": "该网页标题和正文均为澳门新葡亰APP496的推广信息，内容涉及游戏资讯，但实际为赌博平台引流广告。",
     "is_promo": true
+  },
+  "从Demo卷到工作台，AI游戏进入下半场": {
+    "real_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVUG9zVlZ5RzZSQnJFWjJKNC1LTGhqbHlFZ1VVZXlkamc2TFMtMkcxOUN0eGNyQ3BLTlJOUW82a3NxcGdvRlFvWFgwbVZfcmNfODlseDdR?oc=5",
+    "ai_summary": "该内容仅有标题，未提供正文，无法判断文章主旨与价值。",
+    "is_promo": false
+  },
+  "AG真人网址指挥_游戏资讯_2026科隆游戏展，我们关心什么？": {
+    "real_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxdjVsQ1dDMzJIeGIxUlBodzRRTU9TeUYzWXJSNjg2VVlCRlBFaTFhZ3RDRXFLdTk2d21SQ2YzUG14aTd4Q1VzUmpmWXpYbVJiZEM0Qm5qcHg?oc=5",
+    "ai_summary": "该网页标题和正文仅包含“AG真人网址指挥”等博彩推广关键词及游戏展标题，无实质新闻内容，属于推广广告。",
+    "is_promo": true
   }
 }
