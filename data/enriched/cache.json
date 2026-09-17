@@ -3778,5 +3778,40 @@
     "real_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXVEtNZ0ZWU0s0cHhtVTgyUncwVkp1Z0VxX05KZ1hueHV6bUNrZVZINzZBMm9LbVZEU0lkekNKZ1VUdXZKUDdTOU80NVY5MEVpSGZv?oc=5",
     "ai_summary": "该网页标题和正文均为“42923ACM金牛版网完整师资力量-42923ACM金牛版网2026招生指南”，内容空洞，疑似招生推广或垃圾信息。",
     "is_promo": true
+  },
+  "AI 辅助开发工作流与游戏设计经验分享分区 - TapTap": {
+    "real_url": "https://www.taptap.cn/moment/803742808576887322",
+    "ai_summary": "该内容为 TapTap 社区开发者群聊心得整理，分享 AI 辅助开发工作流与游戏设计经验，面向游戏开发爱好者。",
+    "is_promo": false
+  },
+  "从“会回答”到“会办事”，vivo如何解AI手机这道题？": {
+    "real_url": "https://www.qbitai.com/2026/09/491649.html",
+    "ai_summary": "文章介绍vivo在AI手机领域的探索，聚焦其如何让AI从单纯回答问题进化到真正帮用户办事，构建个体专属AI助理。",
+    "is_promo": false
+  },
+  "Claude Code团队讲究啊，这都往外说": {
+    "real_url": "https://www.qbitai.com/2026/09/491596.html",
+    "ai_summary": "文章介绍Claude Code团队分享的工程实践，强调工程师的核心能力在于问题解决（Problem Solving）。",
+    "is_promo": false
+  },
+  "图形学宗师童欣加盟Meshy，要做“AI for Fun”的头号玩家": {
+    "real_url": "https://www.qbitai.com/2026/09/491522.html",
+    "ai_summary": "文章报道图形学专家童欣加盟Meshy公司，计划与年轻创作者共同探索AI驱动的图形学新方向，推动'AI for Fun'理念。",
+    "is_promo": false
+  },
+  "央企做了个通用Agent，直接杀进IDC实测前三！": {
+    "real_url": "https://www.qbitai.com/2026/09/491454.html",
+    "ai_summary": "中国电信推出通用Agent产品TeleAgent，在IDC实测中进入前三名，展示了央企在AI Agent领域的技术实力。",
+    "is_promo": false
+  },
+  "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了": {
+    "real_url": "https://www.qbitai.com/2026/09/491391.html",
+    "ai_summary": "文章介绍Claude合并双入口并上线原生Office功能，可处理文档和PPT，标志硅谷AI办公竞争加剧。",
+    "is_promo": false
+  },
+  "刚刚，唐杰发布智谱RSI首个成果": {
+    "real_url": "https://www.qbitai.com/2026/09/491357.html",
+    "ai_summary": "智谱CEO唐杰发布公司在RSI（递归自我改进）方向的首个成果，指出GLM模型已开始参与构建GLM自身，展示了AI自我迭代能力的进展。",
+    "is_promo": false
   }
 }
