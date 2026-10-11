@@ -4243,5 +4243,10 @@
     "real_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6TFJoWWVod0F3TDJScW1ZYVZOTi1IemJ0T08yaURLYVcweVJuYk5oM0R0OGg3WFo2cDlVUE5fMnJOdWIyRW1SbElCeG9EVmJINzVMNHNR?oc=5",
     "ai_summary": "文章报道在2026年GMTK游戏创作马拉松中，Godot取代Unity成为最受欢迎的游戏引擎，反映了游戏开发工具格局的变化。",
     "is_promo": false
+  },
+  "点睛之笔，开发者解析《战神》中的斧头召回机制": {
+    "real_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RcmR0R215UGRMTTRyWUNCcXpBTWdKNGJfSEFQbUQ2cnFrWm5wSFVHT3FIRzRqRjVzNzN4ZVB5SDdfb050bm5haUszTQ?oc=5",
+    "ai_summary": "本文从开发者视角解析《战神》中斧头召回机制的设计，探讨其作为游戏点睛之笔的交互与手感价值。",
+    "is_promo": false
   }
 }
