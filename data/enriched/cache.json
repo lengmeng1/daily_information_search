@@ -4843,5 +4843,15 @@
     "real_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTEhlLVVMbjZENzFYU3JrZ1QtZHQ4SDl3VlB1c0FpWGNwUXZmdWNqWVdRVFpLN0tGU0pqRXhQaFc1MWpQbnlhQktETXVLa3Qzd0pJYVdTd2Z6Nm8zY29sN0N2QTNuRTVya1NLa2xBWU9sRWgwVUc1eWxBRWdsRjB1X3J3?oc=5",
     "ai_summary": "文章为对《游点灵》制作人Joris的访谈，探讨AI在游戏制作中的作用，强调AI能辅助生成内容，但游戏是否好玩仍取决于人的设计。",
     "is_promo": false
+  },
+  "AI Agent辅助游戏开发：十倍工程效率与团队协作新范式": {
+    "real_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxU1FodjBwRVN1c05UcHh0TW1HdnN5c3VUeEI5SW1ZckJrWnptU1RHSnBuNDJmQVJZMmdvcHVzZjA0UEllbmJIV0xBMi1TWGFXd3hpQg?oc=5",
+    "ai_summary": "文章探讨AI Agent在游戏开发中的应用，主张其能带来十倍工程效率提升并形成团队协作新范式。",
+    "is_promo": false
+  },
+  "如何用Cursor生成Cocos数独游戏": {
+    "real_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ibndVYllzQlRmTlA3dHRmeHNLeENRZGo3OUQwNWRSbzBHajUxemZORHU3RmFibVRxUkRlQWlRT0l2UktreTFHOVNCZ1NTRWNXbU5wWkhhS3F4aTVB?oc=5",
+    "ai_summary": "该视频介绍如何利用Cursor工具生成Cocos数独游戏，属于技术教程类内容。",
+    "is_promo": false
   }
 }
