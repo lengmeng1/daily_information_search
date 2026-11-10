@@ -4868,5 +4868,10 @@
     "real_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wZWlFWFE5UWM3NGt0S2ZVUVI0WThWeFZWR28wbGpodUdMLXFPaFJRdjFnNHZVOHBFN3l6WGdHRGtRM0FtWmJQUFZBelhQUVJJeUwxdXZMRks?oc=5",
     "ai_summary": "该网页标题与正文仅重复宣传“亚博vip2025手机网页版”全面升级并引领新趋势，无实质信息内容。",
     "is_promo": true
+  },
+  "失败一次，受益多次：测试 Agent 从记忆到持续学习的工程实践｜QCon 上海": {
+    "real_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MYXpXMThCWVZFblpmWkpzaVkxUU5qM3Y1S0hjWWkzWXFVVE9zQlhmZUU3ZVlZVDZrdkk5TmthQkxCYmQ0UWJsTlpaM3pZdkljSk8xMHNYQnBLY0pjMnc?oc=5",
+    "ai_summary": "本文介绍QCon上海演讲，探讨测试Agent如何通过记忆机制实现持续学习，从失败中积累经验以提升测试效率，具有工程实践参考价值。",
+    "is_promo": false
   }
 }
