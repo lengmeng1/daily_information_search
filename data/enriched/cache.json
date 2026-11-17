@@ -5023,5 +5023,140 @@
     "real_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IR29idzNBbjd4eDFEZDdTM0ZHM3dxZXVjaWJYelBjSmlmc3U3NkVpbEFqcEw5N1U4eERVUnh6YU53OVB1ZWgxSVdyT3l2dUE?oc=5",
     "ai_summary": "本文介绍角色扮演游戏公益项目GRIT，属于游戏社区内容分享。",
     "is_promo": false
+  },
+  "AI一天做出游戏？揭秘AI游戏开发真相与付费价值": {
+    "real_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xUG45cDVVZFByS2prVHNQejBXQWV2M2U2X1R3UURMUVVHVzVHbVJHbTVqekRqSnpZcm81akREbmFpcTZXX1lYYVdwMUtnTnZZWmJ1RXRXSUZETXFnUFVZ?oc=5",
+    "ai_summary": "文章标题声称揭秘AI一天做出游戏的真相与付费价值，但正文仅有标题，无实质内容，无法判断具体主旨。",
+    "is_promo": true
+  },
+  "NPC记得你，剧情回应你：百度智能云支撑游戏体验的新探索": {
+    "real_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KUmV1OHkxNmVLTjY2ZlFRbU4xWlNzREVTNTlNUHNqLWNYM0JHSkw0WXdRRWdmRmdrTmdsSVQ1SWJya1B2ZlcweW00WWNCQlRjMkxJVUxR?oc=5",
+    "ai_summary": "文章介绍百度智能云在游戏体验方面的探索，聚焦NPC记忆玩家与剧情动态回应等智能交互能力。",
+    "is_promo": false
+  },
+  "2026智能门锁怎么选不踩坑？AI大模型+UWB实测3维度说清+FAQ": {
+    "real_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93SU9qWnZrODhSaERTLWM5Y3BxUjJ5NkVnT2JidkJNMXV2NEFqc0F1SjBBZThac1I4U3FhOEpLSkFFYkZOUXBGM0NTd0x4Nm9GUUFXbEM1X0ZzT0pkQnVJ?oc=5",
+    "ai_summary": "本文围绕2026年智能门锁选购，从AI大模型与UWB技术等三个维度进行实测分析并附FAQ，帮助消费者避坑。",
+    "is_promo": false
+  },
+  "从0开发ai游戏，6000字长文教程来了! - 知乎": {
+    "real_url": "https://zhuanlan.zhihu.com/p/2087139828148203944",
+    "ai_summary": "作者分享自己用三个月时间完全借助AI工具开发三款游戏并上线Steam的经历，以6000字长文教程证明AI开发商业游戏的可行性。",
+    "is_promo": false
+  },
+  "游戏开发中ai辅助思路 - 知乎专栏": {
+    "real_url": "https://zhuanlan.zhihu.com/p/2018053377452438777",
+    "ai_summary": "文章以Unity SLG游戏为背景，梳理AI辅助游戏开发的工作流方向，核心思路为自然语言经Schema约束生成结构化Spec JSON，再由工具执行产出游戏资产。",
+    "is_promo": false
+  },
+  "AI游戏开发2026：NVIDIA ACE与Summer Engine实战经验全解析-CSDN博客": {
+    "real_url": "https://blog.csdn.net/weixin_32553219/article/details/164350543",
+    "ai_summary": "文章围绕2026年AI游戏开发，介绍从NVIDIA ACE到Summer Engine的完整管线，强调核心挑战在于让AIGC内容合规、可信并可作为正式游戏资源被系统消费。",
+    "is_promo": false
+  },
+  "威尼斯电子游戏大厅入口开发者大会将于澳门举办 多方联合启动生态协同新阶段": {
+    "real_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpdk5reUdvdEIxemNhYU5BTkRLdGw5cERzOUlCalZxUGlQV2w1dTBaU0tTOFlnTEZJVzRpM0xkQ2lwWEwzUGNsMmt2VEJyUUxlZGEwVQ?oc=5",
+    "ai_summary": "该网页仅含标题，称威尼斯电子游戏大厅入口开发者大会将在澳门举办并启动生态协同新阶段，缺乏正文实质内容。",
+    "is_promo": false
+  },
+  "游戏开发设计心得分享 | 机核 Gcores": {
+    "real_url": "https://www.gcores.com/collections/64",
+    "ai_summary": "机核网介绍其自2010年起致力于分享玩家生活与游戏文化，制作原创播客和视频，并寻找民间内容创作者，强调游戏蕴含科学、文化、历史等多层面价值。",
+    "is_promo": false
+  },
+  "27条游戏开发经验分享给大家，希望大家的作品都能\"好评如潮\"|独立游戏|国产游戏|steam|rpg游戏_网易订阅": {
+    "real_url": "https://www.163.com/dy/article/KA25KA4D0526DPBA.html",
+    "ai_summary": "文章分享了27条游戏开发经验，涵盖发行策略、键鼠与手柄操作设计等，旨在帮助开发者提升作品质量与销量。",
+    "is_promo": false
+  },
+  "从零开始的独立游戏开发记录与经验分享《1》 - 知乎": {
+    "real_url": "https://zhuanlan.zhihu.com/p/18678244873",
+    "ai_summary": "作者分享独立游戏开发经验，介绍使用Unity引擎和UI搭建等工具，并从系统单元角度总结开发难点、应对方案与改进反思。",
+    "is_promo": false
+  },
+  "十年资深游戏设计师分享10点宝贵经验 - 论坛 - GameRes游资网": {
+    "real_url": "https://www.gameres.com/forum/t/474241",
+    "ai_summary": "一位从业十年的游戏设计师在论坛分享其职业经验总结，旨在为同行提供参考与启发。",
+    "is_promo": false
+  },
+  "游戏设计十大心得-csdn博客": {
+    "real_url": "https://blog.csdn.net/guo_wangwei/article/details/802809",
+    "ai_summary": "文章总结了游戏设计的十条经验心得，涵盖创作激情、借鉴现有游戏、重视测试反馈和积累背景知识等方面，旨在帮助游戏开发者提升设计水平。",
+    "is_promo": false
+  },
+  "独立开发游戏的经历与总结 - 知乎": {
+    "real_url": "https://www.zhihu.com/column/codinggamer",
+    "ai_summary": "作者回顾离开游戏行业两年后独立开发游戏的经历，分享从程序员到独立开发者的心路历程与年度总结。",
+    "is_promo": false
+  },
+  "游戏设计干货：15大核心机制如何潜移默化重塑玩家价值观？": {
+    "real_url": "https://indiegamed.com/review/game-design-values-mechanics",
+    "ai_summary": "本文从《玩以载道》出发，拆解15大核心游戏机制，并结合《传送门》《星球大战》等案例，探讨游戏设计如何潜移默化地影响玩家价值观。",
+    "is_promo": false
+  },
+  "玩法设计思路总结 - 知乎 - 知乎专栏": {
+    "real_url": "https://zhuanlan.zhihu.com/p/1905311350470734125",
+    "ai_summary": "文章总结了游戏玩法设计思路，侧重通过规则和算法定义机制（如物理规则、经济系统、伤害计算），并说明机制与玩法的组合关系。",
+    "is_promo": false
+  },
+  "游戏中的机制是如何设计并确定下来的？ - 知乎": {
+    "real_url": "https://www.zhihu.com/question/4852787907",
+    "ai_summary": "文章从零开始讲解游戏机制的设计流程，首先强调核心玩法或核心机制决定游戏潜力，并说明核心机制需满足若干条件。",
+    "is_promo": false
+  },
+  "游戏设计手册 - Ludo Atlas": {
+    "real_url": "https://huanmoovo.github.io/ludo-atlas/docs/fundamentals/game-design/",
+    "ai_summary": "Ludo Atlas 是一份从“有想法”到“验证好玩”的游戏设计方法论与实操手册，覆盖设计流程、核心循环、系统、数值、关卡、手感、UX、叙事与验证方法，并配套制作管理、避坑与资源手册及112个类型Playbook。",
+    "is_promo": false
+  },
+  "今日上线捕鱼可以兑现钱的游戏官方平台，推出全新安全兑换服务保障用户利益": {
+    "real_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Gc3hrUW9hTG03QVRwb0YtcVdrbUtmY2xRWHd0ZE9lREtEdzhLQl9xRlIwODJVbVRJaURTNS14TERIRjZNcWFXVzNGVWxiNFhSZjNUTQ?oc=5",
+    "ai_summary": "该网页标题和正文宣称某捕鱼游戏平台上线并推出所谓安全兑换服务，实质为赌博类游戏推广信息，内容简短且无实质新闻价值。",
+    "is_promo": true
+  },
+  "《汽车软件质量与缺陷管理规范》国家标准正式发布": {
+    "real_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZYnF3eVMzNW9MMEpCT05vQ2l4R2FJWDdjbGtGZHIzdnNhWmRNNjZKQzZYdmxVVDBHNEhDY3lHc21fSVlNSDFMY3FMbDc?oc=5",
+    "ai_summary": "文章报道《汽车软件质量与缺陷管理规范》国家标准正式发布，为汽车软件质量与缺陷管理提供统一规范依据。",
+    "is_promo": false
+  },
+  "微软修复Windows 11音频解码缺陷：KB5127648解决游戏崩溃问题": {
+    "real_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81ZDV0bENEaVBkRGZQWkNibXdTWXB2RDZ2ZE9UNklfdmgtQjRyaHItbHFzUGZ0eEFQdnRjaS15R0ppUjAtcXhHYmkwSkZrUGwxa2ZqSkJ3?oc=5",
+    "ai_summary": "微软发布KB5127648更新，修复Windows 11音频解码缺陷导致的游戏崩溃问题。",
+    "is_promo": false
+  },
+  "《KB软件》D加密惨遭破解！闪退BUG追加修复": {
+    "real_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GcUg5VUhXR0xiRENILTA3c1Y4eXdsTTd2aGFrX1hsMkttZHlLS0RqSUN5eXRKWldCbHBNSXFROWxtUENKaTZfN3dqX3NleGRWTlpBWXJB?oc=5",
+    "ai_summary": "该网页标题称《KB软件》的D加密被破解并追加修复闪退BUG，但正文仅有标题重复，无实质内容，信息价值极低。",
+    "is_promo": false
+  },
+  "腾讯游戏测试工程师的经验心得分享 - 知乎": {
+    "real_url": "https://zhuanlan.zhihu.com/p/570966515",
+    "ai_summary": "文章分享腾讯游戏测试工程师关于测试用例编写的经验，强调用例应简洁且覆盖全面，而非盲目追求数量。",
+    "is_promo": false
+  },
+  "一个菜鸟半年的游戏测试的工作心得 - 知乎": {
+    "real_url": "https://zhuanlan.zhihu.com/p/165034935",
+    "ai_summary": "作者分享了自己作为游戏测试新人的半年工作心得，包括测试高等级角色属性与技能的实操经验，以及做好游戏测试需要耐心等要点。",
+    "is_promo": false
+  },
+  "看这一篇就可以入门了——游戏测试_游戏测试课程-csdn博客": {
+    "real_url": "https://blog.csdn.net/weixin_42182599/article/details/125201415",
+    "ai_summary": "本文系统介绍游戏测试入门知识，涵盖研发团队构成、开发流程、功能/性能/兼容性/安全等测试内容，以及测试用例编写与Bug管理，适合初学者建立整体认知。",
+    "is_promo": false
+  },
+  "游戏测试经验分享 - 知乎": {
+    "real_url": "https://www.zhihu.com/column/c_2096644151571903853",
+    "ai_summary": "该知乎页面分享游戏测试工作中的经验与问题，属于个人经验记录，但正文内容过短，缺乏实质信息。",
+    "is_promo": false
+  },
+  "腾讯游戏测试工程师的经验心得分享-阿里云开发者社区": {
+    "real_url": "https://developer.aliyun.com/article/1335482",
+    "ai_summary": "腾讯游戏测试工程师赵峻博分享从业经验与工作复盘，帮助读者了解游戏测试岗位的真实专业要求。",
+    "is_promo": false
+  },
+  "个人经验分享-从业游戏测试6年的一点感想 - Csdn博客": {
+    "real_url": "https://blog.csdn.net/qq_32957999/article/details/108034230",
+    "ai_summary": "作者回顾从业游戏测试六年的成长历程，分享在多家游戏公司的经历与教训，强调选择公司和团队的重要性，并提出坚持学习、思考、沟通等职业发展建议。",
+    "is_promo": false
   }
 }
