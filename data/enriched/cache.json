@@ -5268,5 +5268,220 @@
     "real_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YSmRLbUx6SEJneDlZbUtPdVN1R29SN3d0NlJYRFRkQ2Z0S2xJSnlDODJGVU1aX3EzNDhoM3d3WDNtYVp3OFBGOURkV19STHhHMHhkS0FqeEsyam1YRHpxOQ?oc=5",
     "ai_summary": "文章聚焦独立游戏开发者面临的生存困境与多重挑战，探讨在竞争激烈的游戏行业中独立创作的不易与坚持。",
     "is_promo": false
+  },
+  "2026 AI游戏开发实战指南：从NVIDIA ACE到Summer Engine，AI如何重塑游戏开发": {
+    "real_url": "https://zhuanlan.zhihu.com/p/2076285430656455810",
+    "ai_summary": "文章系统梳理2026年AI游戏开发的三大范式及NVIDIA ACE、UniGen、Summer Engine等核心技术，并附工具对比与实战演示，为开发者提供技术选型参考。",
+    "is_promo": false
+  },
+  "AI游戏开发全流程：2026年个人开发者用AI做游戏的完整教程 - FlowPix": {
+    "real_url": "https://www.flowpixai.com/tutorials/ai-game-development-guide.html",
+    "ai_summary": "文章介绍2026年个人开发者利用AI完成游戏开发全流程的教程，涵盖写代码、制作素材、配音效和调平衡等环节，从创意到上线逐步讲解。",
+    "is_promo": true
+  },
+  "Claude+Cursor快速开发小游戏的实践指南 - CSDN博客": {
+    "real_url": "https://blog.csdn.net/weixin_28197941/article/details/163089131",
+    "ai_summary": "文章介绍使用Claude与Cursor组合快速开发小游戏的实践方法，指出该组合在代码理解与上下文保持方面具有优势，适合快速原型开发。",
+    "is_promo": false
+  },
+  "使用Cursor进行开发的七个技巧 - 知乎": {
+    "real_url": "https://zhuanlan.zhihu.com/p/720506807",
+    "ai_summary": "文章介绍使用AI开发工具Cursor的七个实用技巧，并通过构建可嵌入网站的组件等实例说明如何提升开发效率。",
+    "is_promo": false
+  },
+  "Ai做游戏：从代码生成到美术资源的完整落地指南-csdn博客": {
+    "real_url": "https://blog.csdn.net/weixin_32060671/article/details/164178812",
+    "ai_summary": "文章系统梳理AI在游戏开发中的实际落地能力，涵盖AI编程、2D/3D美术资源生成、策划与数值设计、音效配音及AI NPC等六大环节，重点分析可量产场景与工程瓶颈。",
+    "is_promo": false
+  },
+  "AI游戏美术绘画：从原画到场景的完整游戏视觉开发创作流程": {
+    "real_url": "https://www.flowpixai.com/ai-art/ai-draw-game-art-painting.html",
+    "ai_summary": "本文介绍AI游戏美术绘画的完整流程，涵盖角色原画、场景概念设计、道具UI和宣传插画的AI生成技法，并分享将AI融入专业游戏美术管线的实操经验。",
+    "is_promo": false
+  },
+  "独立游戏开发实战：Ai美术流水线构建与资源生成全流程-csdn博客": {
+    "real_url": "https://blog.csdn.net/weixin_32964881/article/details/162952876",
+    "ai_summary": "文章介绍独立游戏开发中AI美术工具链的构建与资源生成全流程，旨在帮助资源有限的开发者降低美术成本、缩短制作周期。",
+    "is_promo": false
+  },
+  "Ai游戏素材工作流：从生成到切图的全链路指南 - 宇的个人博客": {
+    "real_url": "https://mopoint.github.io/yu-blog/2026/05/20/AI%E6%B8%B8%E6%88%8F%E7%B4%A0%E6%9D%90%E5%B7%A5%E4%BD%9C%E6%B5%81%EF%BC%9A%E4%BB%8E%E7%94%9F%E6%88%90%E5%88%B0%E5%88%87%E5%9B%BE%E7%9A%84%E5%85%A8%E9%93%BE%E8%B7%AF%E6%8C%87%E5%8D%97/",
+    "ai_summary": "本文介绍一套完整的 AI 游戏素材处理工作流，涵盖从 AI 生成到抠图切图的全部环节，帮助缺乏专业美术支持的个人提升素材生产效率。",
+    "is_promo": false
+  },
+  "【游戏设计经验分享】系统策划最简单的入门作品_游戏热门视频": {
+    "real_url": "https://www.bilibili.com/video/BV1tLjm6xEZF/",
+    "ai_summary": "该页面为B站游戏设计经验分享视频合集，涉及数值拆解、技能系统设计等入门内容，但正文仅为视频标题列表，缺乏实质信息。",
+    "is_promo": false
+  },
+  "游戏开发完整指南：常用技术、制作流程、岗位分工与学习路线_cesa 游戏开发技术路线图-CSDN博客": {
+    "real_url": "https://blog.csdn.net/zzwokstyle/article/details/161794617",
+    "ai_summary": "本文系统介绍游戏开发的常用技术、制作流程、岗位分工与学习路线，涵盖游戏引擎、游戏设计等核心环节，为入门者提供全面的知识框架与学习指引。",
+    "is_promo": false
+  },
+  "游戏机制的研究_游戏机制需要复杂吗-csdn博客": {
+    "real_url": "https://blog.csdn.net/benben044/article/details/148767909",
+    "ai_summary": "文章探讨游戏机制设计应遵循简单规则衍生复杂机制的原则，通过成就感、节奏控制和多样化反馈提升玩家体验，并涉及RPG四大系统协同与地下城设计等要点。",
+    "is_promo": false
+  },
+  "游戏关卡设计：新手关卡的简单设计思路 - 知乎": {
+    "real_url": "https://zhuanlan.zhihu.com/p/2005980075162633262",
+    "ai_summary": "本文从策划初学者视角总结新手关卡设计经验，将关卡构成拆为五个要素并给出设计思路与示例。",
+    "is_promo": false
+  },
+  "【个人经验笔记】关卡设计以及制作流程管线 - 知乎": {
+    "real_url": "https://zhuanlan.zhihu.com/p/609968462",
+    "ai_summary": "作者以个人经验笔记形式梳理了游戏关卡设计与制作流程管线，并说明不同游戏类型流程各异，内容仅作项目管线展示与个人总结。",
+    "is_promo": false
+  },
+  "关卡设计：原则、流程与入门方法（2026）": {
+    "real_url": "https://www.tripo3d.ai/zh/blog/level-design",
+    "ai_summary": "本文系统介绍关卡设计的基础概念、核心原则（如节奏、引导、难度曲线与可读性）以及从概念规划到灰盒测试的入门流程，适合初学者建立关卡设计框架。",
+    "is_promo": false
+  },
+  "关卡设计实践经验总结：一种开展设计实践的思考框架 - GameRes游资网": {
+    "real_url": "https://www.gameres.com/899305.html",
+    "ai_summary": "作者结合开放世界关卡设计实践，总结出一套开展设计实践的思考框架，分享从漫无目的到形成方法的过程与经验。",
+    "is_promo": false
+  },
+  "关卡设计工具箱（基础篇）：关卡设计三要素 | 机核 Gcores": {
+    "real_url": "https://www.gcores.com/articles/153431",
+    "ai_summary": "本文是面向ACT、动作冒险和ARPG游戏的不完全新手指南，探讨关卡设计三要素及关卡设计师如何加工规则以营造趋近完美的游戏环境。",
+    "is_promo": false
+  },
+  "三年关卡设计复盘：在约束中做设计 — 深度探讨": {
+    "real_url": "https://timentropy.com/articles/level-design-methodology",
+    "ai_summary": "作者基于三年开放世界项目实践，系统复盘从解谜关卡到洞窟箱庭的关卡设计经验，提出关卡设计的核心是构建有结构的体验时间而非机关或动线。",
+    "is_promo": false
+  },
+  "三年游戏测试经验面试记录（一） - 知乎": {
+    "real_url": "https://zhuanlan.zhihu.com/p/355885578",
+    "ai_summary": "作者分享三年游戏测试经验的一次面试复盘，记录了运营活动、和平精英跳伞落地、王者荣耀技能点等七道面试题，供求职者参考准备。",
+    "is_promo": false
+  },
+  "自动化游戏测试揭秘：如何解放双手，高效提升游戏质量？_游戏自动化测试-csdn博客": {
+    "real_url": "https://blog.csdn.net/weixin_39810558/article/details/146250741",
+    "ai_summary": "本文介绍游戏自动化测试的演进与价值，探讨如何应对多平台兼容性、游戏逻辑、UI、网络及多玩家交互等测试需求，以自动化手段高效保障游戏质量。",
+    "is_promo": false
+  },
+  "Ai游戏自动化测试怎么搭建 - 中小团队qa转型实战 | 巨游工坊": {
+    "real_url": "https://juyougf.com/articles/20260710-ai-game-automated-testing.html",
+    "ai_summary": "文章介绍中小团队QA转型搭建AI游戏自动化测试框架的实战方法，通过Agent 7×24运行提升测试效率，人类测试员仅需确认可疑点。",
+    "is_promo": true
+  },
+  "让AI替你玩游戏找Bug：2026年AI游戏测试自动化工具实战 | 布忑狗": {
+    "real_url": "https://aibotgo.net/blog/ai-game-testing-automation-2026/",
+    "ai_summary": "文章介绍2026年AI游戏测试自动化工具，涵盖自动探索测试、平衡性验证和多语言本地化测试，并给出Unity与Unreal引擎的集成方案，旨在帮助降低QA成本、缩短测试周期。",
+    "is_promo": false
+  },
+  "用 AI Agent 加速游戏 QA：构建基于 Amazon Bedrock 的 Agentic 自动化测试系统 | 亚马逊AWS官方博客": {
+    "real_url": "https://aws.amazon.com/cn/blogs/china/ai-agent-gaming-qa-build-based-on-amazon-bedrock/",
+    "ai_summary": "本文介绍如何结合 Amazon Bedrock Claude 与开源设备自动化框架，构建 Agentic 自动化测试系统，以缩短游戏黑盒测试时间、加快迭代周期并提升上市速度。",
+    "is_promo": false
+  },
+  "AI 游戏 QA 自动化 2026:playtest agent 与 RL 巡检 | 博客": {
+    "real_url": "https://blog.lonae.com/posts/ai-qa-2026playtest-agent-rl-TjV_5t",
+    "ai_summary": "该文介绍2026年AI游戏QA自动化的技术方案，涵盖playtest agent、自动bug复现、关卡难度调优、强化学习平衡性巡检及工具链部署清单。",
+    "is_promo": false
+  },
+  "【游戏测试专题】从零开始的自动化测试框架 - 知乎": {
+    "real_url": "https://zhuanlan.zhihu.com/p/248617541",
+    "ai_summary": "文章介绍游戏测试中功能测试与自动化测试的区别，并讲解从零搭建自动化测试框架的方法，适合测试开发入门学习。",
+    "is_promo": false
+  },
+  "游戏测试全解析-csdn博客": {
+    "real_url": "https://blog.csdn.net/weixin_42717928/article/details/106933299",
+    "ai_summary": "本文系统梳理游戏测试全流程，涵盖游戏团队构成、项目开发流程，并重点介绍功能、性能、压力、兼容、安全等十大测试类型，为游戏测试从业者提供体系化参考。",
+    "is_promo": false
+  },
+  "游戏测试入门 - 慕课网": {
+    "real_url": "https://www.imooc.com/learn/880",
+    "ai_summary": "本文介绍慕课网游戏测试入门课程第一章，讲解游戏开发团队组成、工作流程及游戏测试的主要工作内容与流程，帮助学习者从更高维度把握游戏测试工作。",
+    "is_promo": true
+  },
+  "游戏测试完全指南：从人工测试到智能自动化 | game_test_tutorial": {
+    "real_url": "https://zsc.github.io/game_test_tutorial/",
+    "ai_summary": "本文是一份面向资深工程师和AI科学家的游戏测试教程，系统介绍从人工测试到强化学习等智能自动化测试的方法论，覆盖街机到3A大作的完整测试体系。",
+    "is_promo": false
+  },
+  "GitHub - Elysees/game-testing-guide: 游戏测试开发工程师完全学习指南 包含 Python 自动化测试 ...": {
+    "real_url": "https://github.com/Elysees/game-testing-guide",
+    "ai_summary": "这是一个 GitHub 仓库，提供游戏测试开发工程师的完整学习指南，涵盖 Python 自动化测试与 C# Unity 游戏开发内容。",
+    "is_promo": false
+  },
+  "游戏测试入门_wiki_慕课网": {
+    "real_url": "https://www.imooc.com/coursewiki/880",
+    "ai_summary": "该页面介绍慕课网游戏测试入门课程，涵盖游戏开发流程、测试工作内容、需求分析、用例编写、Bug鉴定及弱网测试等基础知识点。",
+    "is_promo": true
+  },
+  "分享我一年多的做独立游戏开发经验心得 - V2ex": {
+    "real_url": "https://www.v2ex.com/t/1094771",
+    "ai_summary": "作者分享辞职后一年多独立游戏开发的经验，用四个多月做了一款塔防游戏，虽未盈利但加深了对市场和开发难度的理解。",
+    "is_promo": false
+  },
+  "游戏开发经验分享 - 知乎": {
+    "real_url": "https://www.zhihu.com/column/c_1340339877079089152",
+    "ai_summary": "文章分享在Unreal Engine中实现类似《魔兽争霸》战争迷雾效果的游戏开发经验，指出UE中文资料相对Unity较少。",
+    "is_promo": false
+  },
+  "Unity3D 实用技巧 - 基础知识大全集 (一) - 技术专栏 - Unity官方开发者社区": {
+    "real_url": "https://developer.unity.cn/projects/619debd7edbc2a002232df1d",
+    "ai_summary": "本文是Unity官方开发者社区中一篇汇总Unity3D基础知识的复习性技术文章，面向初阶开发者梳理常用技巧与概念。",
+    "is_promo": false
+  },
+  "Unity初学者肯定能用得上的50个小技巧 - CSDN博客": {
+    "real_url": "https://blog.csdn.net/qq_42437783/article/details/125353689",
+    "ai_summary": "本文面向Unity初学者，总结了基于Unity2018.4.36和Visual Studio2017的50个编辑器与脚本开发实用小技巧，帮助新手快速熟练使用Unity。",
+    "is_promo": false
+  },
+  "Unity初学者必备：50个提升开发效率的核心技巧与工作流优化指南-CSDN博客": {
+    "real_url": "https://blog.csdn.net/weixin_27024175/article/details/164041699",
+    "ai_summary": "文章介绍Unity基于ECS设计模式的核心原理，并强调掌握高效使用技巧能提升开发工作流、减少重复劳动，对项目从原型走向产品具有技术价值。",
+    "is_promo": false
+  },
+  "使用 Unity 2020 LTS提高生产力的 70 多条技巧 (一) - 技术专栏 - Unity官方开发者社区": {
+    "real_url": "https://developer.unity.cn/projects/61af22d4edbc2a264c914c28",
+    "ai_summary": "本文是Unity官方开发者社区的技术指南，汇总70多条使用Unity 2020 LTS提升工作效率的技巧，面向程序员和美术师，帮助个人或团队节省时间。",
+    "is_promo": false
+  },
+  "探索 Unity 的最佳实践 | Unity": {
+    "real_url": "https://unity.com/cn/how-to",
+    "ai_summary": "本文介绍 Unity 官方推出的最佳实践系列资源，涵盖技术深度文章、电子书等，为创作者提供可操作的技巧与做法以提升效率。",
+    "is_promo": false
+  },
+  "利用社区提供的这些技巧成为更好的 Unity 开发人员": {
+    "real_url": "https://unity.com/cn/blog/games/become-a-better-unity-developer-with-these-tips-from-the-community",
+    "ai_summary": "文章介绍Unity官方整理的过去四个月Twitter上#UnityTips热门技巧，帮助开发者提升视觉效果与工作流程。",
+    "is_promo": false
+  },
+  "Ue 虚幻引擎 游戏开发 面试题 面试经验 汇总! - 知乎": {
+    "real_url": "https://zhuanlan.zhihu.com/p/675995488",
+    "ai_summary": "该页面汇总了多篇关于虚幻引擎（UE4/UE5）游戏开发岗位的面试题与面试经验文章链接，为求职者提供备考参考。",
+    "is_promo": false
+  },
+  "Ue4 开发从入门到入土 - 知乎": {
+    "real_url": "https://zhuanlan.zhihu.com/p/129689221",
+    "ai_summary": "作者以个人视角对UE4开发进行引导性介绍，提醒读者注意时效性并理性看待引擎，避免盲目跟风。",
+    "is_promo": false
+  },
+  "Unreal Engine 学习路线 | 26 年最新零基础到精通一条龙（万人收藏⭐️） - 编程导航 | 一线开发者编程经验和技术实战分享": {
+    "real_url": "https://www.codefather.cn/post/2029156872748445699",
+    "ai_summary": "本文介绍虚幻引擎（UE）及UE5的Nanite、Lumen等核心技术，并给出从零基础到精通的学习路线，适合游戏开发者系统入门与进阶参考。",
+    "is_promo": false
+  },
+  "Unreal Engine & UnrealEd：游戏开发的终极指南 - CSDN博客": {
+    "real_url": "https://blog.csdn.net/weixin_35238815/article/details/147939267",
+    "ai_summary": "文章介绍Unreal Engine的实时全局光照、物理系统和网络代码等特点，以及UnrealEd工具包和教程资源，旨在帮助开发者学习该游戏开发环境。",
+    "is_promo": false
+  },
+  "Ue4/Ue5 : 身为一个已经有多年工作经验的ue4游戏客户端开发该如何进阶自己的技术阶级？": {
+    "real_url": "https://www.zhihu.com/question/598857397?write",
+    "ai_summary": "该文讨论有三年经验的UE4客户端开发者如何在日常需求开发流程中突破技术瓶颈、实现技术进阶，属于职业发展经验探讨。",
+    "is_promo": false
+  },
+  "Unreal Engine游戏引擎开发入门 - CSDN博客": {
+    "real_url": "https://blog.csdn.net/universsky2015/article/details/142945497",
+    "ai_summary": "本文是面向初学者的Unreal Engine游戏引擎开发入门指南，系统介绍基础知识、高级应用与性能优化等内容。",
+    "is_promo": false
   }
 }
