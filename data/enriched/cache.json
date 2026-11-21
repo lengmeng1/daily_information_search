@@ -5593,5 +5593,20 @@
     "real_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoUnFBcG5lekNqVVdTSC1WazhOV3h5Z093VXdTNm0xLVlaX3J5RGRoZlZsQkg2YTJ2MlpnMEtyeTctTG01OFFWd1czdFpucmRDaHhPUUltdFNDS0h5cGRwag?oc=5",
     "ai_summary": "文章标题指向 Unity 游戏开发中 SpriteAtlas 与 AssetBundle 的最佳实践方案，但正文仅有标题，无实质内容，无法提供具体技术信息。",
     "is_promo": false
+  },
+  "AI一天做完游戏，玩家却不愿掏钱？拆解AI游戏开发的门槛、成本与变现逻辑": {
+    "real_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XUUtNa3pmZWh5ejNPelhkZjhBMDdsQlNNY0VqaVhZbXNpRUhXaXRxYkR3eGl2MGJqSi1XMTNFVHlWbnhxTlFBaXV1djdiQTRPX241a3puR1lzRVlOdEZ3?oc=5",
+    "ai_summary": "文章围绕AI快速生成游戏的现象，拆解AI游戏开发的技术门槛、成本结构与变现逻辑，并探讨玩家付费意愿低的原因，为开发者提供商业化参考。",
+    "is_promo": false
+  },
+  "原创｜腾讯游戏拆解：两套全新AI测试方案，从固定脚本到自主智能体": {
+    "real_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaWjJXYWxKcFJXVnR4SEdjUkdPLVpsTFkwa2lpUFZ1QnFtSk54dHFZclhyQzRvNk5UcUs1NGp1QVlpWWRNRkNISTRVUWduQWdq?oc=5",
+    "ai_summary": "文章介绍腾讯游戏提出的两套全新AI测试方案，从传统固定脚本测试升级为自主智能体测试，展示了游戏自动化测试向智能化演进的技术思路。",
+    "is_promo": false
+  },
+  "一图尽展视频游戏AI技术，DQN无愧众算法之鼻祖": {
+    "real_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nLXR2UzAwQnlZYmxnS0RHZS1TWm1vanpST3JRSWJtYUZKbGFnSGw2NUVFdHEwTVVRdDE1SUZEUGRRbGlSQWd6QkFtaXIwc2t0LUZLZDFPY1R4MWk4bEZlaw?oc=5",
+    "ai_summary": "文章以一张图梳理视频游戏AI技术，并强调DQN算法在该领域的奠基地位。",
+    "is_promo": false
   }
 }
