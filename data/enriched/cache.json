@@ -5813,5 +5813,20 @@
     "real_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GUDhPUXVlOG4tZ1NRaGJMODJzUDM0d01VZjJZalBEVnRnZGl4b2syQ0UxaFg4eE01d284RFFtSWtSMmhKbXJiYnNBVzRWamRjdGVzZ25mb05iZ1pMcUJJ?oc=5",
     "ai_summary": "文章标题介绍游戏研发DevOps协同中枢，以TAPD全生命周期实践指南为主题，但正文仅有标题，无实质内容。",
     "is_promo": false
+  },
+  "体育教师跨学段转岗，把游戏经验“进阶”到运动技能教学｜教育星球": {
+    "real_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAycUtuQ3M4SEh0UGRWMEdHMjl2cHJKMmVoODF1ajRDeWJ0VHU2Z1FGXzAzZjBOY0lpbmRSZUVmbUlZM0JPQjVpeXFsVThydUVvSF9obGFXaFhOZ3E4MDQw?oc=5",
+    "ai_summary": "文章介绍体育教师跨学段转岗时，如何将低学段的游戏化教学经验进阶转化为运动技能教学的方法与思考。",
+    "is_promo": false
+  },
+  "【魔方研究】为什么游戏测试资格一定要填问卷？什么样的人能拿到资格": {
+    "real_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55TDFZN0JpSHBYQmRhSGw2SGIyREFTa3p1OEtYYU5QclJ5eTBfUHU2TXdMTTRsb0ZWOXVKYXdNSDZYY1FrSFdOdWFEX19NNXM?oc=5",
+    "ai_summary": "文章探讨游戏测试资格为何需要填写问卷，以及哪些玩家更可能获得测试资格，属于游戏行业科普分析。",
+    "is_promo": false
+  },
+  "单机超越分布式？！强化学习新姿势，并行环境模拟器EnvPool实现速度成本双赢": {
+    "real_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rNW5Mek95RnVPMVQ5dDQ0OVEySkE3WVA4MGFzampGSnU5WUxlZVBjelZUY0JQajNuVV9OeXBUMGQtOVJuVTMtZkRNUDF6YWVsZnBhczVzb0w2MjVOV1FocA?oc=5",
+    "ai_summary": "文章介绍强化学习并行环境模拟器EnvPool，宣称其能在单机上实现超越分布式的速度并降低成本。",
+    "is_promo": false
   }
 }
